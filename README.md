@@ -2,6 +2,13 @@
 
 251 套 PPT 设计风格，每一套都有整页效果图和编号。挑中一个编号，把它的来源和配色交给 AI，整份 PPT 或 HTML 课件的风格就能一次换掉。
 
+> **来源与致谢**：本库是对以下开源项目的整理和编号，设计、配色和模板均归原作者所有。
+> - 配色库（T 组）：[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)（MIT）
+> - 视觉世界（I 组）：[pbakaus/impeccable](https://github.com/pbakaus/impeccable)（Apache-2.0），官方图取自 [impeccable.style](https://impeccable.style)
+> - 幻灯片模板（P 组）：[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)（MIT）、[arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt)（Apache-2.0）、[zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)（MIT）、[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)（AGPL-3.0）、[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)（MIT）
+>
+> 各项目的许可原文见 [第三方许可/](第三方许可/)，逐项说明见 [致谢与许可.md](致谢与许可.md)。
+
 - **网页版（推荐）**：https://jingzuozoe-bot.github.io/ppt-style-library/ ：一页看完，可按分组、深浅底色、来源筛选，卡片上一键复制。
 - **单页总表**：[配色编号总表.pdf](配色编号总表.pdf)，251 张效果图印在一页上。
 - **切换手册**：[设计风格切换手册.md](设计风格切换手册.md)，技能和库的地址、全部编号对照、换风格的方法。
