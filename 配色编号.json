@@ -1,0 +1,4991 @@
+{
+ "说明": "P 编号：GitHub 高星 HTML 幻灯片项目的真实模板（P01–P14 为精选）；I 编号：impeccable 视觉世界；T 编号：taste-skill 的 palettes.json（顺序一致，只换颜色）。主色为从真实效果图中提取的颜色。 每个编号都附效果图和缩略图的相对路径。",
+ "T_taste配色": [
+  {
+   "编号": "T01",
+   "中文名": "白纸蓝笔",
+   "英文名": "Sheet and biro",
+   "id": "white-link-blue",
+   "类型": [
+    "浅色",
+    "单一强调色"
+   ],
+   "底": "#ffffff",
+   "面": "#f4f4f4",
+   "墨": "#111111",
+   "灰": "#6b6b6b",
+   "强调": "#1a4be0",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#111111",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "White holds the whole page with black type, one grey for secondary lines and a pale grey step for tiles and inputs; the footer may invert to black. Blue is the colour of text links and the one button, and nothing else is tinted.",
+   "效果图": "效果图/T/T01_white-link-blue.jpg",
+   "缩略图": "缩略图/T/T01.jpg"
+  },
+  {
+   "编号": "T02",
+   "中文名": "霜白石板",
+   "英文名": "Frost and slate",
+   "id": "cool-white-slate",
+   "类型": [
+    "浅色"
+   ],
+   "底": "#f7f9fa",
+   "面": "#ecf0f2",
+   "墨": "#1f3038",
+   "灰": "#5d6b72",
+   "强调": "#0d7480",
+   "强调上的字": "#ffffff",
+   "色块": [],
+   "说明": "Cool white and one paler blue-grey step hold everything, with type in dark slate instead of black. Teal appears once per screen at most, as the primary button or one small detail beside the product photograph.",
+   "效果图": "效果图/T/T02_cool-white-slate.jpg",
+   "缩略图": "缩略图/T/T02.jpg"
+  },
+  {
+   "编号": "T03",
+   "中文名": "玫灰配绿",
+   "英文名": "Rose grey, green",
+   "id": "rose-grey-green",
+   "类型": [
+    "浅色"
+   ],
+   "底": "#ebe5e3",
+   "面": "#e1dad7",
+   "墨": "#2b2622",
+   "灰": "#6a615d",
+   "强调": "#0f7d45",
+   "强调上的字": "#ffffff",
+   "色块": [],
+   "说明": "A single rosy grey covers the page from top to bottom with brown-black text and grey secondary lines; images are kept greyscale. Green appears only on the current-page link and on one button in the footer.",
+   "效果图": "效果图/T/T03_rose-grey-green.jpg",
+   "缩略图": "缩略图/T/T03.jpg"
+  },
+  {
+   "编号": "T04",
+   "中文名": "报纸灰配黄铜",
+   "英文名": "Newsprint and brass",
+   "id": "paper-grey-brass",
+   "类型": [
+    "浅色"
+   ],
+   "底": "#e8e8e3",
+   "面": "#dcdcd6",
+   "墨": "#181715",
+   "灰": "#63625c",
+   "强调": "#bfb21a",
+   "强调上的字": "#181715",
+   "色块": [
+    {
+     "底": "#181715",
+     "字": "#e8e8e3"
+    }
+   ],
+   "说明": "Warm paper grey with near-black type holds the upper page, then whole sections flip to near-black with paper-grey type; no section is tinted. Brass yellow marks one small detail per screen, such as the button or a single word.",
+   "效果图": "效果图/T/T04_paper-grey-brass.jpg",
+   "缩略图": "缩略图/T/T04.jpg"
+  },
+  {
+   "编号": "T05",
+   "中文名": "石灰配蓝图",
+   "英文名": "Stone and blueprint",
+   "id": "stone-blueprint",
+   "类型": [
+    "浅色"
+   ],
+   "底": "#dfdedb",
+   "面": "#d3d2ce",
+   "墨": "#26251e",
+   "灰": "#5f5d55",
+   "强调": "#2456d6",
+   "强调上的字": "#ffffff",
+   "色块": [],
+   "说明": "Stone paper carries the whole page with near-black and grey text. One image at a time is printed in the accent blue as its only ink, and the same blue fills the single button.",
+   "效果图": "效果图/T/T05_stone-blueprint.jpg",
+   "缩略图": "缩略图/T/T05.jpg"
+  },
+  {
+   "编号": "T06",
+   "中文名": "白底藏青",
+   "英文名": "Navy on white",
+   "id": "white-navy-tab",
+   "类型": [
+    "浅色",
+    "配照片的中性色"
+   ],
+   "底": "#ffffff",
+   "面": "#f4f4f2",
+   "墨": "#1f2b4d",
+   "灰": "#6a7186",
+   "强调": "#f7941d",
+   "强调上的字": "#1f2b4d",
+   "色块": [
+    {
+     "底": "#05070a",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#e3e1dc",
+     "字": "#1f2b4d"
+    }
+   ],
+   "说明": "Pure white pages with navy type sit between full-bleed photographs, opening on near-black and closing on a warm grey footer. Tangerine is one small tab or button, never larger than a thumbnail.",
+   "效果图": "效果图/T/T06_white-navy-tab.jpg",
+   "缩略图": "缩略图/T/T06.jpg"
+  },
+  {
+   "编号": "T07",
+   "中文名": "三种石色",
+   "英文名": "Three stones",
+   "id": "three-stones",
+   "类型": [
+    "浅色",
+    "配照片的中性色"
+   ],
+   "底": "#eeecea",
+   "面": "#e4e1dd",
+   "墨": "#333231",
+   "灰": "#6b6763",
+   "强调": "#5c6b54",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#cdc3b6",
+     "字": "#333231"
+    }
+   ],
+   "说明": "Three close stone tones share the interface: the lightest for the page, the middle one for panels, the darkest for a single band, all with charcoal type. Saturated colour is left to the photographs and their backdrops; the grey-green fills the button only.",
+   "效果图": "效果图/T/T07_three-stones.jpg",
+   "缩略图": "缩略图/T/T07.jpg"
+  },
+  {
+   "编号": "T08",
+   "中文名": "油灰配黑",
+   "英文名": "Putty and black",
+   "id": "putty-black-teal",
+   "类型": [
+    "浅色",
+    "配照片的中性色"
+   ],
+   "底": "#dedad3",
+   "面": "#d3cec6",
+   "墨": "#0a0a0a",
+   "灰": "#5c5852",
+   "强调": "#256f82",
+   "强调上的字": "#ffffff",
+   "色块": [],
+   "说明": "Warm putty covers the page and pure black handles all type and the main shapes. The only tint in the interface is teal, used for the one button or a single marker placed near the photographs.",
+   "效果图": "效果图/T/T08_putty-black-teal.jpg",
+   "缩略图": "缩略图/T/T08.jpg"
+  },
+  {
+   "编号": "T09",
+   "中文名": "沙配苔绿",
+   "英文名": "Sand and moss",
+   "id": "moss-sand",
+   "类型": [
+    "浅色",
+    "大地色"
+   ],
+   "底": "#ddd6c6",
+   "面": "#d2cab8",
+   "墨": "#2a2a26",
+   "灰": "#59574e",
+   "强调": "#4f6238",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#3f5a2a",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Sand grey holds the page with charcoal type, and one deep leaf-green band may close it. Moss green is reserved for buttons; brighter greens and blues arrive only through photographs.",
+   "效果图": "效果图/T/T09_moss-sand.jpg",
+   "缩略图": "缩略图/T/T09.jpg"
+  },
+  {
+   "编号": "T10",
+   "中文名": "骨白绿巧克力",
+   "英文名": "Bone, green, chocolate",
+   "id": "green-mat-chocolate",
+   "类型": [
+    "浅色",
+    "大地色"
+   ],
+   "底": "#e5e1d8",
+   "面": "#dad5ca",
+   "墨": "#2a1d17",
+   "灰": "#6b5b51",
+   "强调": "#456f3a",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#456f3a",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Bone ground with chocolate-brown text takes most of the page. The green is spent on one large flat block, about a third of a screen, and on the button; all other colour comes from photographs.",
+   "效果图": "效果图/T/T10_green-mat-chocolate.jpg",
+   "缩略图": "缩略图/T/T10.jpg"
+  },
+  {
+   "编号": "T11",
+   "中文名": "月灰配青铜",
+   "英文名": "Lunar and bronze",
+   "id": "lunar-grey-bronze",
+   "类型": [
+    "深色"
+   ],
+   "底": "#111111",
+   "面": "#1c1c1c",
+   "墨": "#f2f2f2",
+   "灰": "#8f8f8f",
+   "强调": "#a08672",
+   "强调上的字": "#111111",
+   "色块": [],
+   "说明": "Soft black holds the page with panels one step lighter, white text and grey secondary lines, so photographs supply all the colour. Muted bronze goes on small markers and the one button only.",
+   "效果图": "效果图/T/T11_lunar-grey-bronze.jpg",
+   "缩略图": "缩略图/T/T11.jpg"
+  },
+  {
+   "编号": "T12",
+   "中文名": "夜黑配矢车菊蓝",
+   "英文名": "Night and cornflower",
+   "id": "blue-black-cornflower",
+   "类型": [
+    "深色"
+   ],
+   "底": "#0a0d14",
+   "面": "#131824",
+   "墨": "#e9edf3",
+   "灰": "#8891a1",
+   "强调": "#5a9bfc",
+   "强调上的字": "#0a0d14",
+   "色块": [],
+   "说明": "Blue-black ground and slate panels with silver-white text fill the page; no section changes colour. Cornflower blue marks the buttons and at most one word in a heading.",
+   "效果图": "效果图/T/T12_blue-black-cornflower.jpg",
+   "缩略图": "缩略图/T/T12.jpg"
+  },
+  {
+   "编号": "T13",
+   "中文名": "墨绿配骨白",
+   "英文名": "Green-black and bone",
+   "id": "green-black-bone",
+   "类型": [
+    "深色",
+    "大地色"
+   ],
+   "底": "#161c1a",
+   "面": "#1f2725",
+   "墨": "#e3e2da",
+   "灰": "#8e948d",
+   "强调": "#9fc7b8",
+   "强调上的字": "#161c1a",
+   "色块": [],
+   "说明": "Bone type on green-black from top to bottom, with panels and drawn details barely lighter than the ground so photographs supply the colour. Pale jade is for the booking or contact button alone.",
+   "效果图": "效果图/T/T13_green-black-bone.jpg",
+   "缩略图": "缩略图/T/T13.jpg"
+  },
+  {
+   "编号": "T14",
+   "中文名": "黑配深红",
+   "英文名": "Black and crimson",
+   "id": "black-crimson",
+   "类型": [
+    "深色",
+    "单一强调色"
+   ],
+   "底": "#0a0a0a",
+   "面": "#151515",
+   "墨": "#efefef",
+   "灰": "#8c8c8c",
+   "强调": "#b11226",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#efefef",
+     "字": "#0a0a0a"
+    }
+   ],
+   "说明": "Black with off-white text and mid-grey texture takes nearly the whole page, and the last sections may invert to off-white with black type. Deep crimson is scattered sparingly: a few characters in a heading, a slider fill, the one button.",
+   "效果图": "效果图/T/T14_black-crimson.jpg",
+   "缩略图": "缩略图/T/T14.jpg"
+  },
+  {
+   "编号": "T15",
+   "中文名": "森林配浅青柠",
+   "英文名": "Forest and lime",
+   "id": "forest-pale-lime",
+   "类型": [
+    "深色",
+    "大地色"
+   ],
+   "底": "#0f1f10",
+   "面": "#162a17",
+   "墨": "#ffffff",
+   "灰": "#9aa39a",
+   "强调": "#c6f19d",
+   "强调上的字": "#0f1f10",
+   "色块": [
+    {
+     "底": "#000000",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#ffffff",
+     "字": "#0f1f10"
+    }
+   ],
+   "说明": "Forest green, black and white sections alternate, with forest green holding the most; photographs stay in moss greens and stone browns. Pale lime sits on small squares only, such as arrow buttons and the closing wordmark.",
+   "效果图": "效果图/T/T15_forest-pale-lime.jpg",
+   "缩略图": "缩略图/T/T15.jpg"
+  },
+  {
+   "编号": "T16",
+   "中文名": "炭黑配灰绿",
+   "英文名": "Charcoal and sage",
+   "id": "charcoal-room-sage",
+   "类型": [
+    "深色",
+    "配照片的中性色"
+   ],
+   "底": "#1c1c1c",
+   "面": "#262626",
+   "墨": "#f1f1ef",
+   "灰": "#9a9b96",
+   "强调": "#8fa68e",
+   "强调上的字": "#1c1c1c",
+   "色块": [
+    {
+     "底": "#c8c5ba",
+     "字": "#1c1c1c"
+    }
+   ],
+   "说明": "Charcoal holds the page with off-white text, and one section may flip to a pale concrete tone with dark text. Colour comes from the photographs; grey sage is used for the single button and the active state of a control.",
+   "效果图": "效果图/T/T16_charcoal-room-sage.jpg",
+   "缩略图": "缩略图/T/T16.jpg"
+  },
+  {
+   "编号": "T17",
+   "中文名": "暖黑配金",
+   "英文名": "Warm black, gold",
+   "id": "warm-black-gold",
+   "类型": [
+    "深色",
+    "配照片的中性色"
+   ],
+   "底": "#0c0a08",
+   "面": "#181512",
+   "墨": "#ffffff",
+   "灰": "#8f8a84",
+   "强调": "#c9a45a",
+   "强调上的字": "#0c0a08",
+   "色块": [],
+   "说明": "Warm near-black fills the page and photographs sit bright against it, with pure white small type; panels warm to a brown-black. Gold is for one text link or small button per screen, never a field.",
+   "效果图": "效果图/T/T17_warm-black-gold.jpg",
+   "缩略图": "缩略图/T/T17.jpg"
+  },
+  {
+   "编号": "T18",
+   "中文名": "石墨配安全橙",
+   "英文名": "Graphite and orange",
+   "id": "graphite-safety-orange",
+   "类型": [
+    "单一强调色",
+    "深色"
+   ],
+   "底": "#18191b",
+   "面": "#222427",
+   "墨": "#eff0f1",
+   "灰": "#9c9ea3",
+   "强调": "#ff4a1f",
+   "强调上的字": "#18191b",
+   "色块": [
+    {
+     "底": "#eff0f1",
+     "字": "#18191b"
+    }
+   ],
+   "说明": "Graphite and cool light-grey sections alternate, graphite taking about two thirds, and photographs are desaturated so nothing competes. Safety orange marks the buttons, one thick solid bar across the top of the page and the highlighted item in a list or chart.",
+   "效果图": "效果图/T/T18_graphite-safety-orange.jpg",
+   "缩略图": "缩略图/T/T18.jpg"
+  },
+  {
+   "编号": "T19",
+   "中文名": "煤黑配荧光青柠",
+   "英文名": "Soot and lime",
+   "id": "soot-pale-lime",
+   "类型": [
+    "单一强调色",
+    "深色"
+   ],
+   "底": "#0f0f0f",
+   "面": "#1a1a1a",
+   "墨": "#ffffff",
+   "灰": "#8f8f8f",
+   "强调": "#dafa9c",
+   "强调上的字": "#0f0f0f",
+   "色块": [
+    {
+     "底": "#ffffff",
+     "字": "#0f0f0f"
+    },
+    {
+     "底": "#dafa9c",
+     "字": "#0f0f0f"
+    }
+   ],
+   "说明": "A soot-black opening and close bracket white middle sections, all in black, white and grey. Pale lime is the single action colour: every button, and at most one headline set in it on the dark ground.",
+   "效果图": "效果图/T/T19_soot-pale-lime.jpg",
+   "缩略图": "缩略图/T/T19.jpg"
+  },
+  {
+   "编号": "T20",
+   "中文名": "李子黑配亮粉",
+   "英文名": "Plum-black and pink",
+   "id": "plum-black-pink",
+   "类型": [
+    "单一强调色",
+    "深色"
+   ],
+   "底": "#0d060b",
+   "面": "#1b0e17",
+   "墨": "#ffffff",
+   "灰": "#9a8f97",
+   "强调": "#ff488b",
+   "强调上的字": "#0d060b",
+   "色块": [
+    {
+     "底": "#470c35",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#ffffff",
+     "字": "#101421"
+    }
+   ],
+   "说明": "Near-black and plum at the top and bottom bracket a white middle with navy-black text. Hot pink is reserved for primary buttons, bars in charts and map markers; it never fills a section.",
+   "效果图": "效果图/T/T20_plum-black-pink.jpg",
+   "缩略图": "缩略图/T/T20.jpg"
+  },
+  {
+   "编号": "T21",
+   "中文名": "白底信号红",
+   "英文名": "Signal red, white",
+   "id": "white-signal-red",
+   "类型": [
+    "单一强调色"
+   ],
+   "底": "#ffffff",
+   "面": "#f2f2f2",
+   "墨": "#0a0a0a",
+   "灰": "#6b6b6b",
+   "强调": "#d92b21",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#000000",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "White ground, black text and paper grey for filled panels, with one full black band allowed. Signal red is the only colour in the interface: one word in a headline, a few solid blocks, or the button.",
+   "效果图": "效果图/T/T21_white-signal-red.jpg",
+   "缩略图": "缩略图/T/T21.jpg"
+  },
+  {
+   "编号": "T22",
+   "中文名": "白灰配薄荷",
+   "英文名": "Greys and mint",
+   "id": "white-mint-tiles",
+   "类型": [
+    "单一强调色"
+   ],
+   "底": "#ffffff",
+   "面": "#f3f3f3",
+   "墨": "#232323",
+   "灰": "#6e6e6e",
+   "强调": "#a1ffcb",
+   "强调上的字": "#232323",
+   "色块": [
+    {
+     "底": "#a1ffcb",
+     "字": "#232323"
+    },
+    {
+     "底": "#232323",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "White, near-black and two greys fill a board of flat tiles. Mint floods a few whole tiles (one statement, one figure, the closing call to action) and appears nowhere else.",
+   "效果图": "效果图/T/T22_white-mint-tiles.jpg",
+   "缩略图": "缩略图/T/T22.jpg"
+  },
+  {
+   "编号": "T23",
+   "中文名": "冷灰配钴蓝",
+   "英文名": "Cool grey, cobalt",
+   "id": "cool-grey-cobalt",
+   "类型": [
+    "单一强调色"
+   ],
+   "底": "#eef0f3",
+   "面": "#e2e5ea",
+   "墨": "#0b0c0e",
+   "灰": "#5d6470",
+   "强调": "#1f2de6",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#1f2de6",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Cool pale grey holds the page with near-black type and nothing else tinted. Cobalt starts as the button and one highlighted sentence, takes one whole section as a flat field with white text, then returns as a single button block.",
+   "效果图": "效果图/T/T23_cool-grey-cobalt.jpg",
+   "缩略图": "缩略图/T/T23.jpg"
+  },
+  {
+   "编号": "T24",
+   "中文名": "墨绿配亮黄",
+   "英文名": "Bottle ink, yellow",
+   "id": "offwhite-bottle-yellow",
+   "类型": [
+    "单一强调色"
+   ],
+   "底": "#f7f7f7",
+   "面": "#ebebeb",
+   "墨": "#0d2a1c",
+   "灰": "#5f6b64",
+   "强调": "#f6e016",
+   "强调上的字": "#0d2a1c",
+   "色块": [
+    {
+     "底": "#f6e016",
+     "字": "#0d2a1c"
+    }
+   ],
+   "说明": "Off-white ground with all type in a near-black bottle green instead of black. Yellow is the only saturated note: the button or one small object on most screens, and one later section that turns fully yellow.",
+   "效果图": "效果图/T/T24_offwhite-bottle-yellow.jpg",
+   "缩略图": "缩略图/T/T24.jpg"
+  },
+  {
+   "编号": "T25",
+   "中文名": "纸上墨青",
+   "英文名": "Teal on paper",
+   "id": "teal-on-paper",
+   "类型": [
+    "双色"
+   ],
+   "底": "#f7f9f8",
+   "面": "#ebf0ee",
+   "墨": "#06525c",
+   "灰": "#2f737d",
+   "强调": "#06525c",
+   "强调上的字": "#f7f9f8",
+   "色块": [
+    {
+     "底": "#06525c",
+     "字": "#f7f9f8"
+    }
+   ],
+   "说明": "Cool white paper and a single teal used for every word, shape and button, with no black anywhere. The accent is that same teal filled solid, for the button and for one inverted band with paper-coloured type.",
+   "效果图": "效果图/T/T25_teal-on-paper.jpg",
+   "缩略图": "缩略图/T/T25.jpg"
+  },
+  {
+   "编号": "T26",
+   "中文名": "藏青配粉",
+   "英文名": "Navy and pink",
+   "id": "navy-pink",
+   "类型": [
+    "双色",
+    "单色块"
+   ],
+   "底": "#1a2039",
+   "面": "#212846",
+   "墨": "#f9a3c0",
+   "灰": "#b9879c",
+   "强调": "#f9a3c0",
+   "强调上的字": "#1a2039",
+   "色块": [],
+   "说明": "One navy field runs the entire page. Pink does everything else, from the name and headings to body text, and fills one solid button.",
+   "效果图": "效果图/T/T26_navy-pink.jpg",
+   "缩略图": "缩略图/T/T26.jpg"
+  },
+  {
+   "编号": "T27",
+   "中文名": "腮红配茄紫",
+   "英文名": "Blush and aubergine",
+   "id": "blush-aubergine",
+   "类型": [
+    "双色"
+   ],
+   "底": "#edccbe",
+   "面": "#e8c2b2",
+   "墨": "#351a2b",
+   "灰": "#6c4857",
+   "强调": "#351a2b",
+   "强调上的字": "#edccbe",
+   "色块": [
+    {
+     "底": "#351a2b",
+     "字": "#edccbe"
+    }
+   ],
+   "说明": "Blush pink and dark aubergine alternate as full fields and serve as each other's text colour, in roughly equal shares. There is no third colour: the button is a solid block of whichever of the two is not the ground.",
+   "效果图": "效果图/T/T27_blush-aubergine.jpg",
+   "缩略图": "缩略图/T/T27.jpg"
+  },
+  {
+   "编号": "T28",
+   "中文名": "沙底钴蓝",
+   "英文名": "Cobalt on sand",
+   "id": "cobalt-on-sand",
+   "类型": [
+    "双色"
+   ],
+   "底": "#e6dbc7",
+   "面": "#ddd0b9",
+   "墨": "#062b8a",
+   "灰": "#3a5aa8",
+   "强调": "#062b8a",
+   "强调上的字": "#e6dbc7",
+   "色块": [],
+   "说明": "Sand paper and one cobalt do everything: text, drawings and solid shapes are all the same blue. The button is a cobalt block with sand-coloured type, and no black or second hue is used.",
+   "效果图": "效果图/T/T28_cobalt-on-sand.jpg",
+   "缩略图": "缩略图/T/T28.jpg"
+  },
+  {
+   "编号": "T29",
+   "中文名": "牛血红配灰",
+   "英文名": "Oxblood and grey",
+   "id": "oxblood-grey",
+   "类型": [
+    "双色"
+   ],
+   "底": "#e2e2e2",
+   "面": "#d6d6d6",
+   "墨": "#7d0c14",
+   "灰": "#7a4a4e",
+   "强调": "#7d0c14",
+   "强调上的字": "#e2e2e2",
+   "色块": [
+    {
+     "底": "#7d0c14",
+     "字": "#e2e2e2"
+    }
+   ],
+   "说明": "Deep red text on grey paper holds most of the page, then pale grey text on a solid red field takes one long section and the footer. Photographs are desaturated so nothing breaks the pair, and the button is a solid red block.",
+   "效果图": "效果图/T/T29_oxblood-grey.jpg",
+   "缩略图": "缩略图/T/T29.jpg"
+  },
+  {
+   "编号": "T30",
+   "中文名": "骨白配橄榄",
+   "英文名": "Olive on bone",
+   "id": "olive-on-bone",
+   "类型": [
+    "双色",
+    "大地色"
+   ],
+   "底": "#ecebe7",
+   "面": "#e1dfd9",
+   "墨": "#38450f",
+   "灰": "#5d683a",
+   "强调": "#38450f",
+   "强调上的字": "#ecebe7",
+   "色块": [
+    {
+     "底": "#38450f",
+     "字": "#ecebe7"
+    }
+   ],
+   "说明": "A bone page with every word, large or small, in one olive green; the footer inverts to a solid olive field with bone text. Photography supplies all other colour, and the button is the same olive, filled.",
+   "效果图": "效果图/T/T30_olive-on-bone.jpg",
+   "缩略图": "缩略图/T/T30.jpg"
+  },
+  {
+   "编号": "T31",
+   "中文名": "酒红配泡泡糖粉",
+   "英文名": "Burgundy and bubblegum",
+   "id": "burgundy-bubblegum",
+   "类型": [
+    "双色"
+   ],
+   "底": "#3d0012",
+   "面": "#4d0519",
+   "墨": "#ff99d3",
+   "灰": "#c77aa0",
+   "强调": "#ff99d3",
+   "强调上的字": "#3d0012",
+   "色块": [],
+   "说明": "Deep burgundy is the ground for the whole page and bubblegum pink sets every word on it. The button and the active state of a control are solid pink with burgundy type; product photographs supply any other colour.",
+   "效果图": "效果图/T/T31_burgundy-bubblegum.jpg",
+   "缩略图": "缩略图/T/T31.jpg"
+  },
+  {
+   "编号": "T32",
+   "中文名": "瓶绿配金",
+   "英文名": "Bottle green, gold",
+   "id": "bottle-green-gold",
+   "类型": [
+    "双色",
+    "大地色"
+   ],
+   "底": "#133621",
+   "面": "#1a4429",
+   "墨": "#f4d96c",
+   "灰": "#b3a55e",
+   "强调": "#f4d96c",
+   "强调上的字": "#133621",
+   "色块": [],
+   "说明": "Bottle green covers the page and warm gold sets all the type, with panels one step lighter than the ground. The button is solid gold with green text, and photographs are kept dark and warm so the pair is not disturbed.",
+   "效果图": "效果图/T/T32_bottle-green-gold.jpg",
+   "缩略图": "缩略图/T/T32.jpg"
+  },
+  {
+   "编号": "T33",
+   "中文名": "满版钴蓝",
+   "英文名": "Cobalt field",
+   "id": "cobalt-field",
+   "类型": [
+    "单色块"
+   ],
+   "底": "#0034eb",
+   "面": "#002fd6",
+   "墨": "#ffffff",
+   "灰": "#c5d0ff",
+   "强调": "#e9e34a",
+   "强调上的字": "#111111",
+   "色块": [],
+   "说明": "One electric cobalt fills everything, with white and pale-blue type; photographs are tinted into blue monotone or kept as small thumbnails. A single yellow dot or button is the only other colour on the page.",
+   "效果图": "效果图/T/T33_cobalt-field.jpg",
+   "缩略图": "缩略图/T/T33.jpg"
+  },
+  {
+   "编号": "T34",
+   "中文名": "芥末黄配黑",
+   "英文名": "Mustard and black",
+   "id": "mustard-field",
+   "类型": [
+    "单色块"
+   ],
+   "底": "#e1ac10",
+   "面": "#cd9d0f",
+   "墨": "#0b0b0b",
+   "灰": "#4d3d0a",
+   "强调": "#24338f",
+   "强调上的字": "#ffffff",
+   "色块": [],
+   "说明": "One warm mustard field for the whole page with black ink only. Royal blue is the single interruption, kept to a sliver along one edge or one small button.",
+   "效果图": "效果图/T/T34_mustard-field.jpg",
+   "缩略图": "缩略图/T/T34.jpg"
+  },
+  {
+   "编号": "T35",
+   "中文名": "满版洋红",
+   "英文名": "Carmine field",
+   "id": "carmine-field",
+   "类型": [
+    "单色块"
+   ],
+   "底": "#9c1220",
+   "面": "#8a101c",
+   "墨": "#ffffff",
+   "灰": "#f0b9bd",
+   "强调": "#ffd9dc",
+   "强调上的字": "#9c1220",
+   "色块": [
+    {
+     "底": "#2a2a2a",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "A deep red field bookends or fills the page, with white type and pale pink secondary lines; work shown in between sits on flat charcoal so it keeps its own colours. The button is a pale pink block with red type.",
+   "效果图": "效果图/T/T35_carmine-field.jpg",
+   "缩略图": "缩略图/T/T35.jpg"
+  },
+  {
+   "编号": "T36",
+   "中文名": "粉配青柠",
+   "英文名": "Bubblegum and lime",
+   "id": "pink-field-lime",
+   "类型": [
+    "单色块"
+   ],
+   "底": "#ff87ab",
+   "面": "#ff739d",
+   "墨": "#0a0a0a",
+   "灰": "#6b1f3a",
+   "强调": "#def915",
+   "强调上的字": "#0a0a0a",
+   "色块": [
+    {
+     "底": "#0a0a0a",
+     "字": "#ff87ab"
+    }
+   ],
+   "说明": "A flat bubblegum pink field with black type from top to bottom. Fluorescent lime is the action colour only: the menu button, one highlighter swipe behind a word and the main button.",
+   "效果图": "效果图/T/T36_pink-field-lime.jpg",
+   "缩略图": "缩略图/T/T36.jpg"
+  },
+  {
+   "编号": "T37",
+   "中文名": "天蓝配藏青",
+   "英文名": "Sky and navy",
+   "id": "sky-field-navy",
+   "类型": [
+    "单色块"
+   ],
+   "底": "#6bb4ee",
+   "面": "#7dbdf0",
+   "墨": "#0e1822",
+   "灰": "#1b3d5c",
+   "强调": "#ff5a1f",
+   "强调上的字": "#0e1822",
+   "色块": [
+    {
+     "底": "#ffffff",
+     "字": "#0e1822"
+    },
+    {
+     "底": "#0e1822",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Sky blue sits behind everything, white cards lie on top of it, and navy handles all text and the footer. Orange is for buttons and one highlighted word, so orange against blue is the single clash on the page.",
+   "效果图": "效果图/T/T37_sky-field-navy.jpg",
+   "缩略图": "缩略图/T/T37.jpg"
+  },
+  {
+   "编号": "T38",
+   "中文名": "橙配黑",
+   "英文名": "Orange and black",
+   "id": "orange-field-black",
+   "类型": [
+    "单色块",
+    "双色"
+   ],
+   "底": "#ff7a1f",
+   "面": "#ff8633",
+   "墨": "#050f16",
+   "灰": "#5a2306",
+   "强调": "#050f16",
+   "强调上的字": "#ff7a1f",
+   "色块": [
+    {
+     "底": "#ffffff",
+     "字": "#050f16"
+    }
+   ],
+   "说明": "Hot orange is the page: one flat field with blue-black type, flipping at a hard horizontal seam to a white section when the content needs a rest. The button is a solid block of the same blue-black with orange text, and every other colour comes from the objects shown.",
+   "效果图": "效果图/T/T38_orange-field-black.jpg",
+   "缩略图": "缩略图/T/T38.jpg"
+  },
+  {
+   "编号": "T39",
+   "中文名": "烟草配橄榄",
+   "英文名": "Tobacco and olive",
+   "id": "tobacco-olive",
+   "类型": [
+    "单色块",
+    "大地色"
+   ],
+   "底": "#472913",
+   "面": "#55321a",
+   "墨": "#e4e0cf",
+   "灰": "#b39f84",
+   "强调": "#525e1b",
+   "强调上的字": "#e4e0cf",
+   "色块": [
+    {
+     "底": "#c79a3e",
+     "字": "#2b170a"
+    },
+    {
+     "底": "#525e1b",
+     "字": "#e4e0cf"
+    }
+   ],
+   "说明": "Tobacco brown fills the page with bone type, and photographs stay in browns and ochre. One olive block holds the main text or the button, and a single ochre band may break the brown once.",
+   "效果图": "效果图/T/T39_tobacco-olive.jpg",
+   "缩略图": "缩略图/T/T39.jpg"
+  },
+  {
+   "编号": "T40",
+   "中文名": "海报章节",
+   "英文名": "Poster chapters",
+   "id": "poster-chapters",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#e6e0d2",
+   "面": "#dcd5c5",
+   "墨": "#1a1a1a",
+   "灰": "#5f5b52",
+   "强调": "#18bc42",
+   "强调上的字": "#1a1a1a",
+   "色块": [
+    {
+     "底": "#ed4b44",
+     "字": "#0f0f0f"
+    },
+    {
+     "底": "#1a1a1a",
+     "字": "#e6e0d2"
+    },
+    {
+     "底": "#18bc42",
+     "字": "#1a1a1a"
+    },
+    {
+     "底": "#f2c21a",
+     "字": "#1a1a1a"
+    },
+    {
+     "底": "#e6e0d2",
+     "字": "#1a1a1a"
+    }
+   ],
+   "说明": "Each chapter takes one flat field in turn (coral red, near-black, bone, green, yellow) with black or bone type and no tints between them. Green doubles as the accent for the one button when the ground is bone or black.",
+   "效果图": "效果图/T/T40_poster-chapters.jpg",
+   "缩略图": "缩略图/T/T40.jpg"
+  },
+  {
+   "编号": "T41",
+   "中文名": "蓝红黑",
+   "英文名": "Blue, red, black",
+   "id": "blue-red-black",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#ffffff",
+   "面": "#f3f3f3",
+   "墨": "#0a0a0a",
+   "灰": "#6b6b6b",
+   "强调": "#2436ff",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#2436ff",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#ff3b1f",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#0a0a0a",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#050a5c",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Three flat poster colours each own whole sections: electric blue, red-orange and black, with white for the areas that show the product. No tints sit between them, and blue is the button colour on white.",
+   "效果图": "效果图/T/T41_blue-red-black.jpg",
+   "缩略图": "缩略图/T/T41.jpg"
+  },
+  {
+   "编号": "T42",
+   "中文名": "炭黑配三原色",
+   "英文名": "Charcoal and primaries",
+   "id": "charcoal-primaries",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#191919",
+   "面": "#242424",
+   "墨": "#ffffff",
+   "灰": "#9a9a9a",
+   "强调": "#0c7866",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#d71e1e",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#1e4bd7",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#0c7866",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#ffe927",
+     "字": "#111111"
+    }
+   ],
+   "说明": "A charcoal ground holds flat poster primaries assigned to whole panels: red, blue, teal green and yellow, each placed against a different one. Type is white, or black on yellow; teal green is the button colour on charcoal.",
+   "效果图": "效果图/T/T42_charcoal-primaries.jpg",
+   "缩略图": "缩略图/T/T42.jpg"
+  },
+  {
+   "编号": "T43",
+   "中文名": "群青配黄",
+   "英文名": "Ultramarine and yellow",
+   "id": "ultramarine-yellow",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#1423b8",
+   "面": "#1220a6",
+   "墨": "#ffffff",
+   "灰": "#b4bcf0",
+   "强调": "#1fc27a",
+   "强调上的字": "#0a0a0a",
+   "色块": [
+    {
+     "底": "#1423b8",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#000000",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#f7dd47",
+     "字": "#000000"
+    },
+    {
+     "底": "#e9479f",
+     "字": "#000000"
+    }
+   ],
+   "说明": "Each section is one flat field in sequence: ultramarine, black, yellow, then ultramarine again, with white type on blue and black, and black type on yellow. Green is the only small accent and never grows larger than a button.",
+   "效果图": "效果图/T/T43_ultramarine-yellow.jpg",
+   "缩略图": "缩略图/T/T43.jpg"
+  },
+  {
+   "编号": "T44",
+   "中文名": "糖果章节",
+   "英文名": "Candy chapters",
+   "id": "candy-chapters",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#ffd249",
+   "面": "#f5c63c",
+   "墨": "#0a0a0a",
+   "灰": "#5e4a0a",
+   "强调": "#f53fd6",
+   "强调上的字": "#0a0a0a",
+   "色块": [
+    {
+     "底": "#ffd249",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#ffffff",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#ffc4ef",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#a4f6f8",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#f9a21f",
+     "字": "#0a0a0a"
+    }
+   ],
+   "说明": "Each section owns one flat candy colour: yellow first, then white, pink, cyan and orange, with all type in black. Magenta is kept for buttons alone.",
+   "效果图": "效果图/T/T44_candy-chapters.jpg",
+   "缩略图": "缩略图/T/T44.jpg"
+  },
+  {
+   "编号": "T45",
+   "中文名": "橙天蓝青柠",
+   "英文名": "Orange, sky, lime",
+   "id": "orange-sky-lime",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#ff8126",
+   "面": "#ff8d3a",
+   "墨": "#111111",
+   "灰": "#5c2a05",
+   "强调": "#de194b",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#ff8126",
+     "字": "#111111"
+    },
+    {
+     "底": "#4db3ff",
+     "字": "#111111"
+    },
+    {
+     "底": "#c5f53d",
+     "字": "#111111"
+    },
+    {
+     "底": "#161615",
+     "字": "#f2f2f2"
+    }
+   ],
+   "说明": "The page ground changes as you read: orange first, then sky blue, then acid lime at the end, with one near-black band between; type stays black on all three colours. Crimson is one small button per field.",
+   "效果图": "效果图/T/T45_orange-sky-lime.jpg",
+   "缩略图": "缩略图/T/T45.jpg"
+  },
+  {
+   "编号": "T46",
+   "中文名": "邮政红配芥末",
+   "英文名": "Post red, mustard",
+   "id": "post-red-mustard",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#e2dccf",
+   "面": "#d7d0c1",
+   "墨": "#2a1110",
+   "灰": "#6b524c",
+   "强调": "#4a6f84",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#dc1928",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#952625",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#e0a912",
+     "字": "#2a1110"
+    },
+    {
+     "底": "#4a6f84",
+     "字": "#ffffff"
+    },
+    {
+     "底": "#e2dccf",
+     "字": "#2a1110"
+    }
+   ],
+   "说明": "Post red and bone alternate as full section fields, with red holding the opening and the close. Mustard, slate blue and maroon are kept for whole card frames, and slate blue also fills the one button.",
+   "效果图": "效果图/T/T46_post-red-mustard.jpg",
+   "缩略图": "缩略图/T/T46.jpg"
+  },
+  {
+   "编号": "T47",
+   "中文名": "灰薄荷橙",
+   "英文名": "Grey, mint, orange",
+   "id": "mint-orange-grey",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#ffffff",
+   "面": "#f5f5f5",
+   "墨": "#000000",
+   "灰": "#666666",
+   "强调": "#a7ff9c",
+   "强调上的字": "#000000",
+   "色块": [
+    {
+     "底": "#c5c5c5",
+     "字": "#000000"
+    },
+    {
+     "底": "#a7ff9c",
+     "字": "#000000"
+    },
+    {
+     "底": "#ff6831",
+     "字": "#000000"
+    },
+    {
+     "底": "#000000",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "Black on white to start, then whole sections flood with flat mid-grey, acid mint and orange in turn. Photographs inside a flooded section are shown in black-and-white, and mint is also the button colour on white and black.",
+   "效果图": "效果图/T/T47_mint-orange-grey.jpg",
+   "缩略图": "缩略图/T/T47.jpg"
+  },
+  {
+   "编号": "T48",
+   "中文名": "报告色块",
+   "英文名": "Report blocks",
+   "id": "report-blocks",
+   "类型": [
+    "满版大色"
+   ],
+   "底": "#ffffff",
+   "面": "#f6f6f6",
+   "墨": "#000000",
+   "灰": "#5f5f5f",
+   "强调": "#fe7141",
+   "强调上的字": "#000000",
+   "色块": [
+    {
+     "底": "#fe7141",
+     "字": "#000000"
+    },
+    {
+     "底": "#d1ddd3",
+     "字": "#000000"
+    },
+    {
+     "底": "#f0ff1c",
+     "字": "#000000"
+    },
+    {
+     "底": "#000000",
+     "字": "#f4f4f4"
+    }
+   ],
+   "说明": "A white base with flat blocks of orange, sage, acid yellow and black assigned to whole modules: figure tiles, quote panels and chapter bands. Text is black on every colour and off-white on black, and orange is also the button colour.",
+   "效果图": "效果图/T/T48_report-blocks.jpg",
+   "缩略图": "缩略图/T/T48.jpg"
+  },
+  {
+   "编号": "T49",
+   "中文名": "卡片粉彩",
+   "英文名": "Card pastels",
+   "id": "card-pastels",
+   "类型": [
+    "粉彩色块"
+   ],
+   "底": "#f7f7f5",
+   "面": "#ebebe8",
+   "墨": "#000000",
+   "灰": "#666662",
+   "强调": "#d0106f",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#97aaf6",
+     "字": "#000000"
+    },
+    {
+     "底": "#bbf697",
+     "字": "#000000"
+    },
+    {
+     "底": "#fed878",
+     "字": "#000000"
+    },
+    {
+     "底": "#6ef8fb",
+     "字": "#000000"
+    }
+   ],
+   "说明": "Neutral paper ground and black type, with each card or tile given its own flat pastel (periwinkle, lime, amber or cyan), never two alike side by side. Magenta is reserved for the logo, the email address and text links.",
+   "效果图": "效果图/T/T49_card-pastels.jpg",
+   "缩略图": "缩略图/T/T49.jpg"
+  },
+  {
+   "编号": "T50",
+   "中文名": "薄荷配粉",
+   "英文名": "Mint and pink",
+   "id": "mint-pink-accounts",
+   "类型": [
+    "粉彩色块"
+   ],
+   "底": "#f8f8f8",
+   "面": "#eeeeee",
+   "墨": "#0a0a0a",
+   "灰": "#6a6a6a",
+   "强调": "#1f6b3a",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#c3edce",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#f8c7c9",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#ffffff",
+     "字": "#0a0a0a"
+    }
+   ],
+   "说明": "Near-white base with black type; mint and pink are the only two colours and each stands for one side of the product. They first appear as small circles, then as full-screen section fields, and deep green is used only for the button.",
+   "效果图": "效果图/T/T50_mint-pink-accounts.jpg",
+   "缩略图": "缩略图/T/T50.jpg"
+  },
+  {
+   "编号": "T51",
+   "中文名": "轮换粉彩",
+   "英文名": "Swapping pastels",
+   "id": "swap-pastels",
+   "类型": [
+    "粉彩色块"
+   ],
+   "底": "#c3cbe5",
+   "面": "#d0d6eb",
+   "墨": "#141414",
+   "灰": "#4a5068",
+   "强调": "#0f5257",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#c3cbe5",
+     "字": "#141414"
+    },
+    {
+     "底": "#efd3da",
+     "字": "#141414"
+    },
+    {
+     "底": "#e6dccd",
+     "字": "#141414"
+    },
+    {
+     "底": "#cfd3cb",
+     "字": "#141414"
+    },
+    {
+     "底": "#f9cdbd",
+     "字": "#141414"
+    }
+   ],
+   "说明": "One flat pastel is the whole background and it swaps per project or chapter: periwinkle, pink, sand, sage, peach. Type and one solid box stay near-black on all five, and dark teal is only for the button.",
+   "效果图": "效果图/T/T51_swap-pastels.jpg",
+   "缩略图": "缩略图/T/T51.jpg"
+  },
+  {
+   "编号": "T52",
+   "中文名": "腮红灰绿石板",
+   "英文名": "Blush, sage, slate",
+   "id": "blush-sage-slate",
+   "类型": [
+    "粉彩色块",
+    "大地色"
+   ],
+   "底": "#a6b3bc",
+   "面": "#b2bdc5",
+   "墨": "#1c1c1c",
+   "灰": "#38424a",
+   "强调": "#2c3620",
+   "强调上的字": "#e3e2da",
+   "色块": [
+    {
+     "底": "#a6b3bc",
+     "字": "#1c1c1c"
+    },
+    {
+     "底": "#b7c8be",
+     "字": "#1c1c1c"
+    },
+    {
+     "底": "#d6c4b8",
+     "字": "#1c1c1c"
+    },
+    {
+     "底": "#2c3620",
+     "字": "#e3e2da"
+    }
+   ],
+   "说明": "Slate blue-grey, sage and blush share the page as soft flat blocks, one per chapter or menu tile, with dark type; one deep olive block anchors the close with pale type. Olive is also the button colour, and photographs of sea and sky do the rest.",
+   "效果图": "效果图/T/T52_blush-sage-slate.jpg",
+   "缩略图": "缩略图/T/T52.jpg"
+  },
+  {
+   "编号": "T53",
+   "中文名": "黑底糖果色",
+   "英文名": "Candy on black",
+   "id": "candy-on-black",
+   "类型": [
+    "粉彩色块"
+   ],
+   "底": "#000000",
+   "面": "#0d0d0d",
+   "墨": "#ffffff",
+   "灰": "#999999",
+   "强调": "#93f1f7",
+   "强调上的字": "#000000",
+   "色块": [
+    {
+     "底": "#9ae187",
+     "字": "#000000"
+    },
+    {
+     "底": "#93f1f7",
+     "字": "#000000"
+    },
+    {
+     "底": "#f3ea7a",
+     "字": "#000000"
+    },
+    {
+     "底": "#fbb65c",
+     "字": "#000000"
+    },
+    {
+     "底": "#b9c8ff",
+     "字": "#000000"
+    }
+   ],
+   "说明": "Black ground and dark photographs take nearly all of the surface. The only flat colour is a solid block behind each title, which takes a new candy pastel per project (mint, cyan, lemon, orange, cornflower); cyan is the default for the button.",
+   "效果图": "效果图/T/T53_candy-on-black.jpg",
+   "缩略图": "缩略图/T/T53.jpg"
+  },
+  {
+   "编号": "T54",
+   "中文名": "天蓝配沙",
+   "英文名": "Sky and sand",
+   "id": "sky-sand",
+   "类型": [
+    "粉彩色块"
+   ],
+   "底": "#cbe4f2",
+   "面": "#bcdcee",
+   "墨": "#0a0a0a",
+   "灰": "#44606e",
+   "强调": "#b0298f",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#cbe4f2",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#f1e3b5",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#ffc013",
+     "字": "#0a0a0a"
+    },
+    {
+     "底": "#0a0a0a",
+     "字": "#f2f2f2"
+    }
+   ],
+   "说明": "Sky blue and sand yellow are the constant ground, each holding whole sections, with black text throughout. Saturated colour arrives only as small solid objects, and magenta is kept for the contact card and its button.",
+   "效果图": "效果图/T/T54_sky-sand.jpg",
+   "缩略图": "缩略图/T/T54.jpg"
+  },
+  {
+   "编号": "T55",
+   "中文名": "摄影棚灰",
+   "英文名": "Studio grey",
+   "id": "studio-grey",
+   "类型": [
+    "配照片的中性色"
+   ],
+   "底": "#a8a8aa",
+   "面": "#b4b4b6",
+   "墨": "#0e0e0e",
+   "灰": "#3a3a3c",
+   "强调": "#1f5c49",
+   "强调上的字": "#ffffff",
+   "色块": [
+    {
+     "底": "#1b1b1c",
+     "字": "#ffffff"
+    }
+   ],
+   "说明": "One mid grey serves as both page and studio backdrop, so the photographed object seems to stand on the page itself; type is black and one black band comes late. Colour comes only from the product, and racing green is for the single button.",
+   "效果图": "效果图/T/T55_studio-grey.jpg",
+   "缩略图": "缩略图/T/T55.jpg"
+  },
+  {
+   "编号": "T56",
+   "中文名": "胡桃配棕褐",
+   "英文名": "Walnut and tan",
+   "id": "walnut-tan",
+   "类型": [
+    "配照片的中性色",
+    "大地色"
+   ],
+   "底": "#2b2216",
+   "面": "#382d1e",
+   "墨": "#e4e2da",
+   "灰": "#a39a8b",
+   "强调": "#bda38b",
+   "强调上的字": "#2b2216",
+   "色块": [
+    {
+     "底": "#bda38b",
+     "字": "#1c150d"
+    }
+   ],
+   "说明": "Dark walnut holds the opening and the close with bone type, and the middle of the page may turn to flat tan around honey-lit photographs. There is no bright accent: tan is the fill for the one button on walnut.",
+   "效果图": "效果图/T/T56_walnut-tan.jpg",
+   "缩略图": "缩略图/T/T56.jpg"
+  }
+ ],
+ "P_PPT模板": [
+  {
+   "编号": "P01",
+   "中文名": "融资路演",
+   "模板名": "pitch-deck",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/pitch-deck/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/pitch-deck/",
+   "许可": "MIT",
+   "说明": "白底大字、蓝紫粉渐变光球、圆角浮卡",
+   "类别": "整套模板",
+   "主色": [
+    "#FFFFFF",
+    "#CFC0FE",
+    "#A796D2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P01_pitch-deck.jpg",
+   "缩略图": "缩略图/P/P01.jpg"
+  },
+  {
+   "编号": "P02",
+   "中文名": "产品发布会",
+   "模板名": "product-launch",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/product-launch/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/product-launch/",
+   "许可": "MIT",
+   "说明": "深底大字配橙色光圈",
+   "类别": "整套模板",
+   "主色": [
+    "#0A0A12",
+    "#5E4645"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P02_product-launch.jpg",
+   "缩略图": "缩略图/P/P02.jpg"
+  },
+  {
+   "编号": "P03",
+   "中文名": "VC 路演",
+   "模板名": "pitch-deck-vc",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/pitch-deck-vc/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/pitch-deck-vc/",
+   "许可": "Apache-2.0",
+   "说明": "紫蓝渐变色块配数据大字",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#FFFFFF",
+    "#5939D7",
+    "#A08FE3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P03_pitch-deck-vc.jpg",
+   "缩略图": "缩略图/P/P03.jpg"
+  },
+  {
+   "编号": "P04",
+   "中文名": "钴蓝阳光",
+   "模板名": "cobalt-sunshine",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/cobalt-sunshine/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/cobalt-sunshine/",
+   "许可": "Apache-2.0",
+   "说明": "明黄 × 钴蓝斜切撞色",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#FFE571",
+    "#0C2299",
+    "#586195"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P04_cobalt-sunshine.jpg",
+   "缩略图": "缩略图/P/P04.jpg"
+  },
+  {
+   "编号": "P05",
+   "中文名": "高级撞色",
+   "模板名": "premium-color-blocking",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/premium-color-blocking/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/premium-color-blocking/",
+   "许可": "Apache-2.0",
+   "说明": "珊瑚橙 × 墨蓝 × 奶白，杂志色块",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FF6B47",
+    "#1B2A4B",
+    "#F1D3BB",
+    "#B65649"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P05_premium-color-blocking.jpg",
+   "缩略图": "缩略图/P/P05.jpg"
+  },
+  {
+   "编号": "P06",
+   "中文名": "电光蓝商务",
+   "模板名": "acid-blue-business",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/acid-blue-business/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/acid-blue-business/",
+   "许可": "Apache-2.0",
+   "说明": "白底配电光蓝几何块、超大编号",
+   "类别": "科技 · 商务",
+   "主色": [
+    "#F2F2F2",
+    "#7481CB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P06_acid-blue-business.jpg",
+   "缩略图": "缩略图/P/P06.jpg"
+  },
+  {
+   "编号": "P07",
+   "中文名": "蓝橙大字报",
+   "模板名": "peoples-platform",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/peoples-platform/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/peoples-platform/",
+   "许可": "MIT",
+   "说明": "宝蓝满版配橙色立体大字",
+   "类别": "activist、loud、graphic",
+   "主色": [
+    "#2B2BDB",
+    "#B77C78"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P07_peoples-platform.jpg",
+   "缩略图": "缩略图/P/P07.jpg"
+  },
+  {
+   "编号": "P08",
+   "中文名": "蓝橙数据",
+   "模板名": "blue-orange-analytics",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/blue-orange-analytics/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/blue-orange-analytics/",
+   "许可": "Apache-2.0",
+   "说明": "藏青＋橙红经营看板",
+   "类别": "数据 · 商务",
+   "主色": [
+    "#FFFFFF",
+    "#454265",
+    "#8A9CBE"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P08_blue-orange-analytics.jpg",
+   "缩略图": "缩略图/P/P08.jpg"
+  },
+  {
+   "编号": "P09",
+   "中文名": "包豪斯",
+   "模板名": "bauhaus",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/bauhaus/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/bauhaus/",
+   "许可": "Apache-2.0",
+   "说明": "红黄蓝大色块拼版",
+   "类别": "大胆 · 宣言",
+   "主色": [
+    "#DC2625",
+    "#3367DE",
+    "#F0EDDD",
+    "#2F4375",
+    "#942227"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P09_bauhaus.jpg",
+   "缩略图": "缩略图/P/P09.jpg"
+  },
+  {
+   "编号": "P10",
+   "中文名": "多巴胺撞色",
+   "模板名": "dopamine-clash",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/dopamine-clash/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/dopamine-clash/",
+   "许可": "Apache-2.0",
+   "说明": "紫、粉、荧光绿",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#A299F4",
+    "#C8D6A3",
+    "#955793"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P10_dopamine-clash.jpg",
+   "缩略图": "缩略图/P/P10.jpg"
+  },
+  {
+   "编号": "P11",
+   "中文名": "霓虹夜色",
+   "模板名": "neon-haze",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/neon-haze/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/neon-haze/",
+   "许可": "Apache-2.0",
+   "说明": "深紫底配亮粉渐变大字",
+   "类别": "深色 · 沉稳",
+   "主色": [
+    "#1D1530",
+    "#4E2550"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P11_neon-haze.jpg",
+   "缩略图": "缩略图/P/P11.jpg"
+  },
+  {
+   "编号": "P12",
+   "中文名": "荧光黄网格",
+   "模板名": "neo-grid-bold",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/neo-grid-bold/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/neo-grid-bold/",
+   "许可": "MIT",
+   "说明": "荧光黄、黑、白网格拼版",
+   "类别": "confident、punchy、editorial",
+   "主色": [
+    "#0E0E0E",
+    "#E5FF3C",
+    "#F5F4EF",
+    "#494B38"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P12_neo-grid-bold.jpg",
+   "缩略图": "缩略图/P/P12.jpg"
+  },
+  {
+   "编号": "P13",
+   "中文名": "彩虹泼溅",
+   "模板名": "splash-abstract",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/splash-abstract/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/splash-abstract/",
+   "许可": "Apache-2.0",
+   "说明": "白底多彩泼色",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#FFF8F0",
+    "#C59794"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P13_splash-abstract.jpg",
+   "缩略图": "缩略图/P/P13.jpg"
+  },
+  {
+   "编号": "P14",
+   "中文名": "白底多彩编辑风",
+   "模板名": "xhs-white-editorial",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/xhs-white-editorial/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/xhs-white-editorial/",
+   "许可": "MIT",
+   "说明": "白底黑字、关键词彩色高亮",
+   "类别": "整套模板",
+   "主色": [
+    "#FFFFFF",
+    "#BAB9BD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P14_xhs-white-editorial.jpg",
+   "缩略图": "缩略图/P/P14.jpg"
+  },
+  {
+   "编号": "P15",
+   "中文名": "course-module",
+   "模板名": "course-module",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/course-module/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/course-module/",
+   "许可": "MIT",
+   "说明": "7-slide teaching module: cover (title + meta), objectives, core concept, worked example, exercise, check-your-understanding (MCQ), summary.",
+   "类别": "整套模板",
+   "主色": [
+    "#FBFAF6",
+    "#BFBCB6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P15_course-module.jpg",
+   "缩略图": "缩略图/P/P15.jpg"
+  },
+  {
+   "编号": "P16",
+   "中文名": "dir-key-nav-minimal",
+   "模板名": "dir-key-nav-minimal",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/dir-key-nav-minimal/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/dir-key-nav-minimal/",
+   "许可": "MIT",
+   "说明": "8 张幻灯片，每张一个纯色/渐变 mono-background（indigo / cream / crimson / emerald / slate / violet / white / charcoal）。灵感直接来自 `20260405 演示幻灯片【方向键版】.html` —— 八个 `t-*` 主题类，每张幻灯一个背景，方向键切换，极简 editorial 气质。",
+   "类别": "整套模板",
+   "主色": [
+    "#1A1A42",
+    "#555776"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P16_dir-key-nav-minimal.jpg",
+   "缩略图": "缩略图/P/P16.jpg"
+  },
+  {
+   "编号": "P17",
+   "中文名": "graphify-dark-graph",
+   "模板名": "graphify-dark-graph",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/graphify-dark-graph/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/graphify-dark-graph/",
+   "许可": "MIT",
+   "说明": "Deep-night 暗底 + 力导向知识图谱覆盖层 + 温暖玻璃拟态卡片。灵感来自 `20260413-graphify/ppt/graphify.html` 的 `#06060c` 渐变底、飘移 orb 光晕、glass 卡片（warm/blue/green/purple 五变体）和 rainbow-text 标题。",
+   "类别": "整套模板",
+   "主色": [
+    "#0C0E1B"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P17_graphify-dark-graph.jpg",
+   "缩略图": "缩略图/P/P17.jpg"
+  },
+  {
+   "编号": "P18",
+   "中文名": "hermes-cyber-terminal",
+   "模板名": "hermes-cyber-terminal",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/hermes-cyber-terminal/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/hermes-cyber-terminal/",
+   "许可": "MIT",
+   "说明": "黑底 (`#0a0c10`) + 终端 chrome + 扫描线 + 薄荷绿 glow 大字 + JetBrains Mono 全文打字机感。灵感来自 `20260414-hermes-agent/ppt/hermes-record.html` 的 `codebox #15151b` 深色代码盒和 `hermes-vs-openclaw.html` 的实测对比气质 —— 把两者合成一份「honest cyber review」。",
+   "类别": "整套模板",
+   "主色": [
+    "#0B0C10"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P18_hermes-cyber-terminal.jpg",
+   "缩略图": "缩略图/P/P18.jpg"
+  },
+  {
+   "编号": "P19",
+   "中文名": "knowledge-arch-blueprint",
+   "模板名": "knowledge-arch-blueprint",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/knowledge-arch-blueprint/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/knowledge-arch-blueprint/",
+   "许可": "MIT",
+   "说明": "奶油纸 (`#F0EAE0`) 底 + 锈红 (`#B5392A`) 单一 accent + 硬黑描边卡片 + 虚线反馈回路箭头。灵感来自 `20260405 架构图v2.html` —— 那是一张真正的「技术白皮书架构图」，像建筑蓝图。",
+   "类别": "整套模板",
+   "主色": [
+    "#F1EAE0",
+    "#CDA399"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P19_knowledge-arch-blueprint.jpg",
+   "缩略图": "缩略图/P/P19.jpg"
+  },
+  {
+   "编号": "P20",
+   "中文名": "obsidian-claude-gradient",
+   "模板名": "obsidian-claude-gradient",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/obsidian-claude-gradient/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/obsidian-claude-gradient/",
+   "许可": "MIT",
+   "说明": "GitHub-dark (`#0d1117`) + 紫色 ambient radial + 60px 遮罩网格 + 紫→蓝→绿渐变文字。灵感来自 `20260406-obsidian-claude/slides.html` 的 `--accent #7c3aed`、`.cbg` 双 radial cover、`.cgrid` 60px 遮罩网格以及 `.g` 三停渐变。",
+   "类别": "整套模板",
+   "主色": [
+    "#0D1017",
+    "#454C59"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P20_obsidian-claude-gradient.jpg",
+   "缩略图": "缩略图/P/P20.jpg"
+  },
+  {
+   "编号": "P21",
+   "中文名": "presenter-mode-reveal",
+   "模板名": "presenter-mode-reveal",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/presenter-mode-reveal/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/presenter-mode-reveal/",
+   "许可": "MIT",
+   "说明": "一份专为**带逐字稿的技术分享**设计的 full-deck 模板。核心卖点是真正可用的**磁吸卡片式演讲者视图**：当前页 iframe 预览 + 下页 iframe 预览 + 大字号逐字稿 + 计时器，4 个卡片可任意拖拽/缩放，全部集成在 `runtime.js` 里，零依赖。",
+   "类别": "整套模板",
+   "主色": [
+    "#1B1B27",
+    "#4A4A63"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P21_presenter-mode-reveal.jpg",
+   "缩略图": "缩略图/P/P21.jpg"
+  },
+  {
+   "编号": "P22",
+   "中文名": "tech-sharing",
+   "模板名": "tech-sharing",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/tech-sharing/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/tech-sharing/",
+   "许可": "MIT",
+   "说明": "8-slide engineering talk deck: cover (topic + speaker), agenda, context, two deep-dive slides, a code example, takeaways, Q&A.",
+   "类别": "整套模板",
+   "主色": [
+    "#0D1017"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P22_tech-sharing.jpg",
+   "缩略图": "缩略图/P/P22.jpg"
+  },
+  {
+   "编号": "P23",
+   "中文名": "testing-safety-alert",
+   "模板名": "testing-safety-alert",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/testing-safety-alert/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/testing-safety-alert/",
+   "许可": "MIT",
+   "说明": "白底 + 红琥珀警示色 + 条纹危险边 + 大红 strike 和 pill。灵感来自 `20260412-AI测试与安全/xhs-ai-testing-safety-v2.html` 的 `.focus` 黑底白字块、hero quote box 和高对比 black-on-white 气质 —— 但把语气推到「警示 / 风控 / 事故报告」层级。",
+   "类别": "整套模板",
+   "主色": [
+    "#FFFAF7",
+    "#DDC5C8"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P23_testing-safety-alert.jpg",
+   "缩略图": "缩略图/P/P23.jpg"
+  },
+  {
+   "编号": "P24",
+   "中文名": "weekly-report",
+   "模板名": "weekly-report",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/weekly-report/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/weekly-report/",
+   "许可": "MIT",
+   "说明": "7-slide team weekly report: cover (week range), KPI grid, shipped items, a metric trend chart, blockers, next-week plan, thanks.",
+   "类别": "整套模板",
+   "主色": [
+    "#FAFBFD",
+    "#B3B9C7"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P24_weekly-report.jpg",
+   "缩略图": "缩略图/P/P24.jpg"
+  },
+  {
+   "编号": "P25",
+   "中文名": "xhs-pastel-card",
+   "模板名": "xhs-pastel-card",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/xhs-pastel-card/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/xhs-pastel-card/",
+   "许可": "MIT",
+   "说明": "暖奶油 `#fef8f1` 底 + 模糊彩色 blob + Playfair italic 衬线大字 + 整色马卡龙卡片（桃 / 薄荷 / 天 / 丁香 / 柠檬 / 玫瑰）。共性提取自 `20260412-obsidian-skills/html/xhs-obsidian-skills.html` 的 `soft-purple/pink/blue/green/orange/teal` 软色卡系统，以及 `20260409 v2-白底版` 的胶囊 chip 顶部条。",
+   "类别": "整套模板",
+   "主色": [
+    "#FFF8F0",
+    "#D6C9CA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P25_xhs-pastel-card.jpg",
+   "缩略图": "缩略图/P/P25.jpg"
+  },
+  {
+   "编号": "P26",
+   "中文名": "xhs-post",
+   "模板名": "xhs-post",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "templates/full-decks/xhs-post/",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/tree/main/templates/full-decks/xhs-post/",
+   "许可": "MIT",
+   "说明": "小红书 3:4 图文格式，9 张图（810 × 1080）。结构：封面 → hook → 痛点 → aha moment → 步骤 1-3 → 效果 → CTA 关注。",
+   "类别": "整套模板",
+   "主色": [
+    "#F1EAE2",
+    "#BEA89C"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P26_xhs-post.jpg",
+   "缩略图": "缩略图/P/P26.jpg"
+  },
+  {
+   "编号": "P27",
+   "中文名": "学术白皮书",
+   "模板名": "academic-paper",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/academic-paper.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/academic-paper.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FDFCF8"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P27_academic-paper.jpg",
+   "缩略图": "缩略图/P/P27.jpg"
+  },
+  {
+   "编号": "P28",
+   "中文名": "冷色调 · arctic",
+   "模板名": "arctic-cool",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/arctic-cool.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/arctic-cool.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F2F5FA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P28_arctic-cool.jpg",
+   "缩略图": "缩略图/P/P28.jpg"
+  },
+  {
+   "编号": "P29",
+   "中文名": "Aurora 极光",
+   "模板名": "aurora",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/aurora.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/aurora.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#06091C"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P29_aurora.jpg",
+   "缩略图": "缩略图/P/P29.jpg"
+  },
+  {
+   "编号": "P30",
+   "中文名": "Bauhaus 几何原色",
+   "模板名": "bauhaus",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/bauhaus.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/bauhaus.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F3EFE3",
+    "#CBC6BE"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P30_bauhaus.jpg",
+   "缩略图": "缩略图/P/P30.jpg"
+  },
+  {
+   "编号": "P31",
+   "中文名": "Blueprint 蓝图",
+   "模板名": "blueprint",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/blueprint.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/blueprint.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#0B3A6E"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P31_blueprint.jpg",
+   "缩略图": "缩略图/P/P31.jpg"
+  },
+  {
+   "编号": "P32",
+   "中文名": "Catppuccin Latte",
+   "模板名": "catppuccin-latte",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/catppuccin-latte.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/catppuccin-latte.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F0F1F5"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P32_catppuccin-latte.jpg",
+   "缩略图": "缩略图/P/P32.jpg"
+  },
+  {
+   "编号": "P33",
+   "中文名": "Catppuccin Mocha",
+   "模板名": "catppuccin-mocha",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/catppuccin-mocha.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/catppuccin-mocha.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#1F1E2E",
+    "#3A3B4F"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P33_catppuccin-mocha.jpg",
+   "缩略图": "缩略图/P/P33.jpg"
+  },
+  {
+   "编号": "P34",
+   "中文名": "Corporate Clean 商务",
+   "模板名": "corporate-clean",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/corporate-clean.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/corporate-clean.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#C4CBD3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P34_corporate-clean.jpg",
+   "缩略图": "缩略图/P/P34.jpg"
+  },
+  {
+   "编号": "P35",
+   "中文名": "Cyberpunk Neon 霓虹",
+   "模板名": "cyberpunk-neon",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/cyberpunk-neon.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/cyberpunk-neon.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#000000",
+    "#30293A"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P35_cyberpunk-neon.jpg",
+   "缩略图": "缩略图/P/P35.jpg"
+  },
+  {
+   "编号": "P36",
+   "中文名": "Dracula",
+   "模板名": "dracula",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/dracula.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/dracula.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#282A36"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P36_dracula.jpg",
+   "缩略图": "缩略图/P/P36.jpg"
+  },
+  {
+   "编号": "P37",
+   "中文名": "杂志衬线 · high editorial",
+   "模板名": "editorial-serif",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/editorial-serif.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/editorial-serif.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FAF7F2",
+    "#E0DAD4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P37_editorial-serif.jpg",
+   "缩略图": "缩略图/P/P37.jpg"
+  },
+  {
+   "编号": "P38",
+   "中文名": "Engineering Whiteprint",
+   "模板名": "engineering-whiteprint",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/engineering-whiteprint.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/engineering-whiteprint.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#C6C9D2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P38_engineering-whiteprint.jpg",
+   "缩略图": "缩略图/P/P38.jpg"
+  },
+  {
+   "编号": "P39",
+   "中文名": "Glassmorphism",
+   "模板名": "glassmorphism",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/glassmorphism.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/glassmorphism.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#0B1024",
+    "#232B49"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P39_glassmorphism.jpg",
+   "缩略图": "缩略图/P/P39.jpg"
+  },
+  {
+   "编号": "P40",
+   "中文名": "Gruvbox Dark",
+   "模板名": "gruvbox-dark",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/gruvbox-dark.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/gruvbox-dark.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#282828"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P40_gruvbox-dark.jpg",
+   "缩略图": "缩略图/P/P40.jpg"
+  },
+  {
+   "编号": "P41",
+   "中文名": "和风极简 · 朱红",
+   "模板名": "japanese-minimal",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/japanese-minimal.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/japanese-minimal.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F9FAF5"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P41_japanese-minimal.jpg",
+   "缩略图": "缩略图/P/P41.jpg"
+  },
+  {
+   "编号": "P42",
+   "中文名": "Magazine Bold 大字杂志",
+   "模板名": "magazine-bold",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/magazine-bold.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/magazine-bold.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F5EFE1",
+    "#C7BEB1"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P42_magazine-bold.jpg",
+   "缩略图": "缩略图/P/P42.jpg"
+  },
+  {
+   "编号": "P43",
+   "中文名": "Memphis Pop",
+   "模板名": "memphis-pop",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/memphis-pop.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/memphis-pop.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FEF6E9",
+    "#D3CCC1"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P43_memphis-pop.jpg",
+   "缩略图": "缩略图/P/P43.jpg"
+  },
+  {
+   "编号": "P44",
+   "中文名": "Mid-Century Modern",
+   "模板名": "midcentury",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/midcentury.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/midcentury.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F3EBD8"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P44_midcentury.jpg",
+   "缩略图": "缩略图/P/P44.jpg"
+  },
+  {
+   "编号": "P45",
+   "中文名": "极简白 · clean restraint",
+   "模板名": "minimal-white",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/minimal-white.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/minimal-white.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#929395"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P45_minimal-white.jpg",
+   "缩略图": "缩略图/P/P45.jpg"
+  },
+  {
+   "编号": "P46",
+   "中文名": "Neo-Brutalism",
+   "模板名": "neo-brutalism",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/neo-brutalism.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/neo-brutalism.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFEF1",
+    "#CBC7AD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P46_neo-brutalism.jpg",
+   "缩略图": "缩略图/P/P46.jpg"
+  },
+  {
+   "编号": "P47",
+   "中文名": "News Broadcast 新闻",
+   "模板名": "news-broadcast",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/news-broadcast.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/news-broadcast.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#C48488"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P47_news-broadcast.jpg",
+   "缩略图": "缩略图/P/P47.jpg"
+  },
+  {
+   "编号": "P48",
+   "中文名": "Nord · nordic cool",
+   "模板名": "nord",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/nord.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/nord.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#2E3440"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P48_nord.jpg",
+   "缩略图": "缩略图/P/P48.jpg"
+  },
+  {
+   "编号": "P49",
+   "中文名": "Pitch Deck VC / YC",
+   "模板名": "pitch-deck-vc",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/pitch-deck-vc.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/pitch-deck-vc.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#C8C9D2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P49_pitch-deck-vc.jpg",
+   "缩略图": "缩略图/P/P49.jpg"
+  },
+  {
+   "编号": "P50",
+   "中文名": "Rainbow Gradient",
+   "模板名": "rainbow-gradient",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/rainbow-gradient.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/rainbow-gradient.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#D1CFD4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P50_rainbow-gradient.jpg",
+   "缩略图": "缩略图/P/P50.jpg"
+  },
+  {
+   "编号": "P51",
+   "中文名": "Retro TV CRT 扫描线",
+   "模板名": "retro-tv",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/retro-tv.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/retro-tv.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#F4ECD7"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P51_retro-tv.jpg",
+   "缩略图": "缩略图/P/P51.jpg"
+  },
+  {
+   "编号": "P52",
+   "中文名": "Rose Pine",
+   "模板名": "rose-pine",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/rose-pine.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/rose-pine.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#191724"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P52_rose-pine.jpg",
+   "缩略图": "缩略图/P/P52.jpg"
+  },
+  {
+   "编号": "P53",
+   "中文名": "黑白高对比 · sharp mono",
+   "模板名": "sharp-mono",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/sharp-mono.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/sharp-mono.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#CECDCD",
+    "#5A5757"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P53_sharp-mono.jpg",
+   "缩略图": "缩略图/P/P53.jpg"
+  },
+  {
+   "编号": "P54",
+   "中文名": "马卡龙 · soft pastel",
+   "模板名": "soft-pastel",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/soft-pastel.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/soft-pastel.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FDF7FB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P54_soft-pastel.jpg",
+   "缩略图": "缩略图/P/P54.jpg"
+  },
+  {
+   "编号": "P55",
+   "中文名": "Solarized Light",
+   "模板名": "solarized-light",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/solarized-light.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/solarized-light.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FDF6E3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P55_solarized-light.jpg",
+   "缩略图": "缩略图/P/P55.jpg"
+  },
+  {
+   "编号": "P56",
+   "中文名": "暖色调 · sunset",
+   "模板名": "sunset-warm",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/sunset-warm.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/sunset-warm.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFF6EF"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P56_sunset-warm.jpg",
+   "缩略图": "缩略图/P/P56.jpg"
+  },
+  {
+   "编号": "P57",
+   "中文名": "Swiss Grid",
+   "模板名": "swiss-grid",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/swiss-grid.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/swiss-grid.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FFFFFF",
+    "#C9C2C3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P57_swiss-grid.jpg",
+   "缩略图": "缩略图/P/P57.jpg"
+  },
+  {
+   "编号": "P58",
+   "中文名": "Terminal Green",
+   "模板名": "terminal-green",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/terminal-green.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/terminal-green.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#030A03"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P58_terminal-green.jpg",
+   "缩略图": "缩略图/P/P58.jpg"
+  },
+  {
+   "编号": "P59",
+   "中文名": "Tokyo Night",
+   "模板名": "tokyo-night",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/tokyo-night.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/tokyo-night.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#1B1B27"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P59_tokyo-night.jpg",
+   "缩略图": "缩略图/P/P59.jpg"
+  },
+  {
+   "编号": "P60",
+   "中文名": "Vaporwave 蒸汽波",
+   "模板名": "vaporwave",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/vaporwave.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/vaporwave.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#1A0838"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P60_vaporwave.jpg",
+   "缩略图": "缩略图/P/P60.jpg"
+  },
+  {
+   "编号": "P61",
+   "中文名": "小红书白底",
+   "模板名": "xiaohongshu-white",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/xiaohongshu-white.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/xiaohongshu-white.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#FEFDFB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P61_xiaohongshu-white.jpg",
+   "缩略图": "缩略图/P/P61.jpg"
+  },
+  {
+   "编号": "P62",
+   "中文名": "Y2K Chrome 镜面",
+   "模板名": "y2k-chrome",
+   "来源库": "lewislulu/html-ppt-skill",
+   "源文件": "assets/themes/y2k-chrome.css",
+   "链接": "https://github.com/lewislulu/html-ppt-skill/blob/main/assets/themes/y2k-chrome.css",
+   "许可": "MIT",
+   "说明": "主题样式表，可套在任意页面上",
+   "类别": "主题",
+   "主色": [
+    "#DFE3EC"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P62_y2k-chrome.jpg",
+   "缩略图": "缩略图/P/P62.jpg"
+  },
+  {
+   "编号": "P63",
+   "中文名": "藏青学衡",
+   "模板名": "academic-navy",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/academic-navy/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/academic-navy/",
+   "许可": "Apache-2.0",
+   "说明": "藏青与低调金棕构成的严谨学术答辩风",
+   "类别": "学术 · 严谨",
+   "主色": [
+    "#F4F5F9",
+    "#112D5C",
+    "#909AA9"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P63_academic-navy.jpg",
+   "缩略图": "缩略图/P/P63.jpg"
+  },
+  {
+   "编号": "P64",
+   "中文名": "学术论文",
+   "模板名": "academic-paper",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/academic-paper/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/academic-paper/",
+   "许可": "Apache-2.0",
+   "说明": "黑墨蓝链落在论文白上，学术严谨自带说服力",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#F3F3F3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P64_academic-paper.jpg",
+   "缩略图": "缩略图/P/P64.jpg"
+  },
+  {
+   "编号": "P65",
+   "中文名": "扁豆紫蜜陀僧 · 国风治愈",
+   "模板名": "amber-aurora",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/amber-aurora/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/amber-aurora/",
+   "许可": "Apache-2.0",
+   "说明": "暖紫橙渐变的黄昏国风治愈",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#E19455",
+    "#A7775A"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P65_amber-aurora.jpg",
+   "缩略图": "缩略图/P/P65.jpg"
+  },
+  {
+   "编号": "P66",
+   "中文名": "北极冷",
+   "模板名": "arctic-cool",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/arctic-cool/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/arctic-cool/",
+   "许可": "Apache-2.0",
+   "说明": "冰蓝渐变裹住冷静理性，数据在这里找到尊严",
+   "类别": "深色 · 沉稳",
+   "主色": [
+    "#073855",
+    "#0570A9"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P66_arctic-cool.jpg",
+   "缩略图": "缩略图/P/P66.jpg"
+  },
+  {
+   "编号": "P67",
+   "中文名": "极光",
+   "模板名": "aurora",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/aurora/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/aurora/",
+   "许可": "Apache-2.0",
+   "说明": "极光渐变融化在blur里，封面页天生就该这样梦幻",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#161D36"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P67_aurora.jpg",
+   "缩略图": "缩略图/P/P67.jpg"
+  },
+  {
+   "编号": "P68",
+   "中文名": "蓝白商务图表",
+   "模板名": "blue-white-chart",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/blue-white-chart/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/blue-white-chart/",
+   "许可": "Apache-2.0",
+   "说明": "冷静专业的数据汇报风",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#F6F8FD",
+    "#4869A5"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P68_blue-white-chart.jpg",
+   "缩略图": "缩略图/P/P68.jpg"
+  },
+  {
+   "编号": "P69",
+   "中文名": "蓝图",
+   "模板名": "blueprint",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/blueprint/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/blueprint/",
+   "许可": "Apache-2.0",
+   "说明": "深蓝底上浅蓝线条织就网格，建筑师的梦想画布",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#1F3C61"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P69_blueprint.jpg",
+   "缩略图": "缩略图/P/P69.jpg"
+  },
+  {
+   "编号": "P70",
+   "中文名": "勃艮第红高级感",
+   "模板名": "burgundy-premium",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/burgundy-premium/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/burgundy-premium/",
+   "许可": "Apache-2.0",
+   "说明": "沉稳奢华的红金黑配色",
+   "类别": "深色 · 奢华",
+   "主色": [
+    "#73021C",
+    "#000000",
+    "#977265"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P70_burgundy-premium.jpg",
+   "缩略图": "缩略图/P/P70.jpg"
+  },
+  {
+   "编号": "P71",
+   "中文名": "Catppuccin 拿铁",
+   "模板名": "catppuccin-latte",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/catppuccin-latte/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/catppuccin-latte/",
+   "许可": "Apache-2.0",
+   "说明": "拿铁浅底映粉彩，开发者的午后该有这样的温柔",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#F0F1F5"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P71_catppuccin-latte.jpg",
+   "缩略图": "缩略图/P/P71.jpg"
+  },
+  {
+   "编号": "P72",
+   "中文名": "Catppuccin 摩卡",
+   "模板名": "catppuccin-mocha",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/catppuccin-mocha/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/catppuccin-mocha/",
+   "许可": "Apache-2.0",
+   "说明": "摩卡柔雾中的粉彩光点，长时间凝视也不会疲倦",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#313447",
+    "#50566E"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P72_catppuccin-mocha.jpg",
+   "缩略图": "缩略图/P/P72.jpg"
+  },
+  {
+   "编号": "P73",
+   "中文名": "青瓷竹影",
+   "模板名": "celadon-bamboo",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/celadon-bamboo/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/celadon-bamboo/",
+   "许可": "Apache-2.0",
+   "说明": "青瓷绿、竹简与晨雾留白构成的东方人文风",
+   "类别": "东方 · 人文",
+   "主色": [
+    "#F0F0D6",
+    "#BBD0AC"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P73_celadon-bamboo.jpg",
+   "缩略图": "缩略图/P/P73.jpg"
+  },
+  {
+   "编号": "P74",
+   "中文名": "童趣橙暖",
+   "模板名": "children-warm-orange",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/children-warm-orange/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/children-warm-orange/",
+   "许可": "Apache-2.0",
+   "说明": "活泼可爱的儿童节橙暖风",
+   "类别": "暖色 · 治愈",
+   "主色": [
+    "#FF8E17",
+    "#6ED122",
+    "#9CDE48"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P74_children-warm-orange.jpg",
+   "缩略图": "缩略图/P/P74.jpg"
+  },
+  {
+   "编号": "P75",
+   "中文名": "中国传统色·米白樱粉",
+   "模板名": "chinese-cream-blossom",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/chinese-cream-blossom/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/chinese-cream-blossom/",
+   "许可": "Apache-2.0",
+   "说明": "宣纸米白配樱粉，温柔雅致国风",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#F5EFE6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P75_chinese-cream-blossom.jpg",
+   "缩略图": "缩略图/P/P75.jpg"
+  },
+  {
+   "编号": "P76",
+   "中文名": "中国传统色·青绿湖蓝",
+   "模板名": "chinese-fresh-trio",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/chinese-fresh-trio/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/chinese-fresh-trio/",
+   "许可": "Apache-2.0",
+   "说明": "翠绿湖蓝米白三色，清朗国风现代",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#ECF6F5",
+    "#A6DBC4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P76_chinese-fresh-trio.jpg",
+   "缩略图": "缩略图/P/P76.jpg"
+  },
+  {
+   "编号": "P77",
+   "中文名": "中式水墨意境·山水",
+   "模板名": "chinese-ink-landscape",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/chinese-ink-landscape/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/chinese-ink-landscape/",
+   "许可": "Apache-2.0",
+   "说明": "青灰山色暖沙米，深远辽阔山水意境",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#F2EEE4",
+    "#ACB6BB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P77_chinese-ink-landscape.jpg",
+   "缩略图": "缩略图/P/P77.jpg"
+  },
+  {
+   "编号": "P78",
+   "中文名": "中国传统色·春日嫩柳",
+   "模板名": "chinese-pastel-spring",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/chinese-pastel-spring/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/chinese-pastel-spring/",
+   "许可": "Apache-2.0",
+   "说明": "嫩柳绿配桃花粉，初春国风温柔配色",
+   "类别": "自然 · 有机",
+   "主色": [
+    "#EDEEE0",
+    "#CBBBA0"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P78_chinese-pastel-spring.jpg",
+   "缩略图": "缩略图/P/P78.jpg"
+  },
+  {
+   "编号": "P79",
+   "中文名": "中国传统色·凝脂杨妃",
+   "模板名": "chinese-porcelain-rose",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/chinese-porcelain-rose/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/chinese-porcelain-rose/",
+   "许可": "Apache-2.0",
+   "说明": "凝脂杨妃双主色，瓷韵典雅国风",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#F7EBE5",
+    "#E6B8BB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P79_chinese-porcelain-rose.jpg",
+   "缩略图": "缩略图/P/P79.jpg"
+  },
+  {
+   "编号": "P80",
+   "中文名": "经典双色·米黄深蓝",
+   "模板名": "classic-duo-blue",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/classic-duo-blue/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/classic-duo-blue/",
+   "许可": "Apache-2.0",
+   "说明": "暖米黄配深海蓝，高级沉稳书卷气",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#FBF4E4",
+    "#406C93"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P80_classic-duo-blue.jpg",
+   "缩略图": "缩略图/P/P80.jpg"
+  },
+  {
+   "编号": "P81",
+   "中文名": "企业洁净",
+   "模板名": "corporate-clean",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/corporate-clean/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/corporate-clean/",
+   "许可": "Apache-2.0",
+   "说明": "纯白上海军蓝落笔，商务场合最稳妥的选择",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#FFFFFF",
+    "#142248",
+    "#A8B0C6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P81_corporate-clean.jpg",
+   "缩略图": "缩略图/P/P81.jpg"
+  },
+  {
+   "编号": "P82",
+   "中文名": "奶油温柔 · 高级感",
+   "模板名": "cream-pastel",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/cream-pastel/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/cream-pastel/",
+   "许可": "Apache-2.0",
+   "说明": "奶油白豆沙粉抹茶绿的温柔高级风",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#F7F1EB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P82_cream-pastel.jpg",
+   "缩略图": "缩略图/P/P82.jpg"
+  },
+  {
+   "编号": "P83",
+   "中文名": "赛博霓虹",
+   "模板名": "cyberpunk-neon",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/cyberpunk-neon/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/cyberpunk-neon/",
+   "许可": "Apache-2.0",
+   "说明": "霓虹粉青撕裂纯黑夜幕，未来已来且不问你是否准备好",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#0A0A0A"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P83_cyberpunk-neon.jpg",
+   "缩略图": "缩略图/P/P83.jpg"
+  },
+  {
+   "编号": "P84",
+   "中文名": "Dracula 紫",
+   "模板名": "dracula",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/dracula/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/dracula/",
+   "许可": "Apache-2.0",
+   "说明": "紫夜笼罩屏幕，每一行代码都在荧光中呼吸",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#282A36"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P84_dracula.jpg",
+   "缩略图": "缩略图/P/P84.jpg"
+  },
+  {
+   "编号": "P85",
+   "中文名": "渐变美学·樱粉雾蓝",
+   "模板名": "dreamy-pink-gradient",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/dreamy-pink-gradient/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/dreamy-pink-gradient/",
+   "许可": "Apache-2.0",
+   "说明": "樱粉雾紫深靛渐变，梦幻浪漫诗意",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#F7D4EA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P85_dreamy-pink-gradient.jpg",
+   "缩略图": "缩略图/P/P85.jpg"
+  },
+  {
+   "编号": "P86",
+   "中文名": "梦幻浪漫 · 治愈系",
+   "模板名": "dreamy-romance",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/dreamy-romance/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/dreamy-romance/",
+   "许可": "Apache-2.0",
+   "说明": "雾紫樱花粉星空蓝的梦幻浪漫治愈风",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#E1D0E8"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P86_dreamy-romance.jpg",
+   "缩略图": "缩略图/P/P86.jpg"
+  },
+  {
+   "编号": "P87",
+   "中文名": "墨页叙事",
+   "模板名": "e-ink-editorial",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/e-ink-editorial/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/e-ink-editorial/",
+   "许可": "Apache-2.0",
+   "说明": "暖纸、衬线与低调流光构成的杂志叙事风",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#F0EFEA",
+    "#8D8F8B"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P87_e-ink-editorial.jpg",
+   "缩略图": "缩略图/P/P87.jpg"
+  },
+  {
+   "编号": "P88",
+   "中文名": "杂志衬线",
+   "模板名": "editorial-serif",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/editorial-serif/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/editorial-serif/",
+   "许可": "Apache-2.0",
+   "说明": "奶油纸上衬线娓娓道来，故事感从标题开始流淌",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FEF7ED",
+    "#E2CCBD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P88_editorial-serif.jpg",
+   "缩略图": "缩略图/P/P88.jpg"
+  },
+  {
+   "编号": "P89",
+   "中文名": "工程白图",
+   "模板名": "engineering-whiteprint",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/engineering-whiteprint/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/engineering-whiteprint/",
+   "许可": "Apache-2.0",
+   "说明": "坐标纸上海军墨线勾勒蓝图，工程思维可视化",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#FCFCFC"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P89_engineering-whiteprint.jpg",
+   "缩略图": "缩略图/P/P89.jpg"
+  },
+  {
+   "编号": "P90",
+   "中文名": "地理课堂·蓝图",
+   "模板名": "geography-classroom",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/geography-classroom/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/geography-classroom/",
+   "许可": "Apache-2.0",
+   "说明": "面向中学地理教学的地貌、区域与课堂讲解风格",
+   "类别": "教育 · 地理",
+   "主色": [
+    "#639BA4",
+    "#DDE9EC",
+    "#386475"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P90_geography-classroom.jpg",
+   "缩略图": "缩略图/P/P90.jpg"
+  },
+  {
+   "编号": "P91",
+   "中文名": "磨砂玻璃",
+   "模板名": "glassmorphism",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/glassmorphism/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/glassmorphism/",
+   "许可": "Apache-2.0",
+   "说明": "磨砂玻璃后光斑流转，Apple 发布会的光影魔术",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#31ACDE",
+    "#8792F5",
+    "#6C65EB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P91_glassmorphism.jpg",
+   "缩略图": "缩略图/P/P91.jpg"
+  },
+  {
+   "编号": "P92",
+   "中文名": "鎏金象牙 · 高级质感",
+   "模板名": "gold-ivory",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/gold-ivory/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/gold-ivory/",
+   "许可": "Apache-2.0",
+   "说明": "鎏金棕与象牙白的古典奢华风",
+   "类别": "深色 · 奢华",
+   "主色": [
+    "#E8DBC8",
+    "#C3AC90"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P92_gold-ivory.jpg",
+   "缩略图": "缩略图/P/P92.jpg"
+  },
+  {
+   "编号": "P93",
+   "中文名": "梦幻分界·星河烟火",
+   "模板名": "gradient-cosmic",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/gradient-cosmic/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/gradient-cosmic/",
+   "许可": "Apache-2.0",
+   "说明": "深靛暗夜金橙，史诗梦幻强对比",
+   "类别": "深色 · 沉稳",
+   "主色": [
+    "#06081D",
+    "#1D226E"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P93_gradient-cosmic.jpg",
+   "缩略图": "缩略图/P/P93.jpg"
+  },
+  {
+   "编号": "P94",
+   "中文名": "Gruvbox 暗",
+   "模板名": "gruvbox-dark",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/gruvbox-dark/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/gruvbox-dark/",
+   "许可": "Apache-2.0",
+   "说明": "琥珀与苔绿在暖灰中燃烧，终端美学从未如此温暖",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#282828",
+    "#56422F"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P94_gruvbox-dark.jpg",
+   "缩略图": "缩略图/P/P94.jpg"
+  },
+  {
+   "编号": "P95",
+   "中文名": "手绘秋日旅行手账",
+   "模板名": "hand-drawn-autumn",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/hand-drawn-autumn/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/hand-drawn-autumn/",
+   "许可": "Apache-2.0",
+   "说明": "温暖秋日色调的手绘插画风格，充满童趣与旅行感。",
+   "类别": "插画 · 手绘",
+   "主色": [
+    "#F5E6C7",
+    "#DABEAD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P95_hand-drawn-autumn.jpg",
+   "缩略图": "缩略图/P/P95.jpg"
+  },
+  {
+   "编号": "P96",
+   "中文名": "治愈手绘水彩",
+   "模板名": "handdrawn-watercolor",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/handdrawn-watercolor/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/handdrawn-watercolor/",
+   "许可": "Apache-2.0",
+   "说明": "低饱和暖色与海洋蓝交织，治愈感从纸面上流淌而出",
+   "类别": "插画 · 手绘",
+   "主色": [
+    "#F5F5DD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P96_handdrawn-watercolor.jpg",
+   "缩略图": "缩略图/P/P96.jpg"
+  },
+  {
+   "编号": "P97",
+   "中文名": "情绪疗愈色卡",
+   "模板名": "healing-color-card",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/healing-color-card/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/healing-color-card/",
+   "许可": "Apache-2.0",
+   "说明": "薰衣草暖桃薄荷，柔软治愈情绪色",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#F0E8E9",
+    "#C9C1C7"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P97_healing-color-card.jpg",
+   "缩略图": "缩略图/P/P97.jpg"
+  },
+  {
+   "编号": "P98",
+   "中文名": "青莲碧蓝 · 梦幻国风",
+   "模板名": "indigo-lotus",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/indigo-lotus/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/indigo-lotus/",
+   "许可": "Apache-2.0",
+   "说明": "紫蓝渐变的黄昏海天国风",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#649DB7",
+    "#634CA0"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P98_indigo-lotus.jpg",
+   "缩略图": "缩略图/P/P98.jpg"
+  },
+  {
+   "编号": "P99",
+   "中文名": "表格 · 现代周报",
+   "模板名": "industrial-kaizen",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/industrial-kaizen/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/industrial-kaizen/",
+   "许可": "Apache-2.0",
+   "说明": "克制的中性色表格驱动商务风",
+   "类别": "浅色 · 专业",
+   "主色": [
+    "#FBFAF6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P99_industrial-kaizen.jpg",
+   "缩略图": "缩略图/P/P99.jpg"
+  },
+  {
+   "编号": "P100",
+   "中文名": "水墨江南",
+   "模板名": "ink-wash-jiangnan",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/ink-wash-jiangnan/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/ink-wash-jiangnan/",
+   "许可": "Apache-2.0",
+   "说明": "水墨意境，江南烟雨的东方诗意",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#F8F6EB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P100_ink-wash-jiangnan.jpg",
+   "缩略图": "缩略图/P/P100.jpg"
+  },
+  {
+   "编号": "P101",
+   "中文名": "日式极简",
+   "模板名": "japanese-minimal",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/japanese-minimal/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/japanese-minimal/",
+   "许可": "Apache-2.0",
+   "说明": "象牙白上一笔朱红，万物留白处见匠心",
+   "类别": "浅色 · 极简",
+   "主色": [
+    "#F9F8F4",
+    "#DCD8D4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P101_japanese-minimal.jpg",
+   "缩略图": "缩略图/P/P101.jpg"
+  },
+  {
+   "编号": "P102",
+   "中文名": "柔雾甜梦",
+   "模板名": "macaron-mist",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/macaron-mist/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/macaron-mist/",
+   "许可": "Apache-2.0",
+   "说明": "薄荷粉珊瑚薰衣草紫的柔雾甜点风",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#D9D5DD"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P102_macaron-mist.jpg",
+   "缩略图": "缩略图/P/P102.jpg"
+  },
+  {
+   "编号": "P103",
+   "中文名": "杂志大字",
+   "模板名": "magazine-bold",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/magazine-bold/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/magazine-bold/",
+   "许可": "Apache-2.0",
+   "说明": "奶油纸上跃动超大衬线，翻开的每一页都是封面",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FEF3C6",
+    "#D5C096"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P103_magazine-bold.jpg",
+   "缩略图": "缩略图/P/P103.jpg"
+  },
+  {
+   "编号": "P104",
+   "中文名": "孟菲斯波普",
+   "模板名": "memphis-pop",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/memphis-pop/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/memphis-pop/",
+   "许可": "Apache-2.0",
+   "说明": "霓虹渐变洒满画布，孟菲斯派对永不散场",
+   "类别": "大胆 · 宣言",
+   "主色": [
+    "#FEF3C6",
+    "#CEBCAC"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P104_memphis-pop.jpg",
+   "缩略图": "缩略图/P/P104.jpg"
+  },
+  {
+   "编号": "P105",
+   "中文名": "世纪中叶",
+   "模板名": "midcentury",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/midcentury/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/midcentury/",
+   "许可": "Apache-2.0",
+   "说明": "芥末黄遇上焦橙与青，世纪中叶的客厅永远舒适",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FEF3C6",
+    "#E4D29D"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P105_midcentury.jpg",
+   "缩略图": "缩略图/P/P105.jpg"
+  },
+  {
+   "编号": "P106",
+   "中文名": "极简白",
+   "模板名": "minimal-white",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/minimal-white/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/minimal-white/",
+   "许可": "Apache-2.0",
+   "说明": "克制到极致的高级感，留白是最有力的表达",
+   "类别": "浅色 · 极简",
+   "主色": [
+    "#FFFFFF",
+    "#D5DBE2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P106_minimal-white.jpg",
+   "缩略图": "缩略图/P/P106.jpg"
+  },
+  {
+   "编号": "P107",
+   "中文名": "薄荷清新 · 高级绿",
+   "模板名": "mint-fresh",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/mint-fresh/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/mint-fresh/",
+   "许可": "Apache-2.0",
+   "说明": "低饱和高明度的高级感绿色系",
+   "类别": "自然 · 有机",
+   "主色": [
+    "#DBEADB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P107_mint-fresh.jpg",
+   "缩略图": "缩略图/P/P107.jpg"
+  },
+  {
+   "编号": "P108",
+   "中文名": "山野葱郁",
+   "模板名": "mountain-green-literary",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/mountain-green-literary/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/mountain-green-literary/",
+   "许可": "Apache-2.0",
+   "说明": "深绿山峦黄草地的文艺夏日",
+   "类别": "插画 · 手绘",
+   "主色": [
+    "#CAC54B",
+    "#498F5A",
+    "#D4D785",
+    "#78A449"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P108_mountain-green-literary.jpg",
+   "缩略图": "缩略图/P/P108.jpg"
+  },
+  {
+   "编号": "P109",
+   "中文名": "新野兽派",
+   "模板名": "neo-brutalism",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/neo-brutalism/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/neo-brutalism/",
+   "许可": "Apache-2.0",
+   "说明": "粗线条硬阴影，用不妥协的姿态说出你的观点",
+   "类别": "大胆 · 宣言",
+   "主色": [
+    "#F97216",
+    "#FFF6ED",
+    "#A34141",
+    "#CCC6C2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P109_neo-brutalism.jpg",
+   "缩略图": "缩略图/P/P109.jpg"
+  },
+  {
+   "编号": "P110",
+   "中文名": "新闻播报",
+   "模板名": "news-broadcast",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/news-broadcast/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/news-broadcast/",
+   "许可": "Apache-2.0",
+   "说明": "红色竖条亮起，所有目光聚焦——突发新闻，不容错过",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FFFFFF",
+    "#D52C2B",
+    "#D39495"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P110_news-broadcast.jpg",
+   "缩略图": "缩略图/P/P110.jpg"
+  },
+  {
+   "编号": "P111",
+   "中文名": "北欧",
+   "模板名": "nord",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/nord/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/nord/",
+   "许可": "Apache-2.0",
+   "说明": "极夜蓝底映冰蓝微光，安静到只听得见思考的声音",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#404759"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P111_nord.jpg",
+   "缩略图": "缩略图/P/P111.jpg"
+  },
+  {
+   "编号": "P112",
+   "中文名": "橄榄奶白 · 高级稳重",
+   "模板名": "olive-elegant",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/olive-elegant/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/olive-elegant/",
+   "许可": "Apache-2.0",
+   "说明": "深橄榄绿与奶白绿的古典奢华风",
+   "类别": "深色 · 奢华",
+   "主色": [
+    "#4B5D35",
+    "#E6E0D0"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P112_olive-elegant.jpg",
+   "缩略图": "缩略图/P/P112.jpg"
+  },
+  {
+   "编号": "P113",
+   "中文名": "晴橙落日海",
+   "模板名": "orange-sea",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/orange-sea/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/orange-sea/",
+   "许可": "Apache-2.0",
+   "说明": "晴空蓝柔杏白落日橙的治愈渐变",
+   "类别": "暖色 · 治愈",
+   "主色": [
+    "#5DCAEF",
+    "#FCE4C3",
+    "#F9FCFC",
+    "#B2E0E9"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P113_orange-sea.jpg",
+   "缩略图": "缩略图/P/P113.jpg"
+  },
+  {
+   "编号": "P114",
+   "中文名": "东方意境插画",
+   "模板名": "oriental-poetic-illustration",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/oriental-poetic-illustration/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/oriental-poetic-illustration/",
+   "许可": "Apache-2.0",
+   "说明": "竹影月色，禅意诗画的东方插画",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#F0F5F9"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P114_oriental-poetic-illustration.jpg",
+   "缩略图": "缩略图/P/P114.jpg"
+  },
+  {
+   "编号": "P115",
+   "中文名": "故宫墨红",
+   "模板名": "palace-ink-red",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/palace-ink-red/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/palace-ink-red/",
+   "许可": "Apache-2.0",
+   "说明": "厚重墨红配宣纸米灰，新中式高级感的东方力量",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#CAD2C5",
+    "#884342"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P115_palace-ink-red.jpg",
+   "缩略图": "缩略图/P/P115.jpg"
+  },
+  {
+   "编号": "P116",
+   "中文名": "彩虹渐变",
+   "模板名": "rainbow-gradient",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/rainbow-gradient/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/rainbow-gradient/",
+   "许可": "Apache-2.0",
+   "说明": "彩虹在白底流动，每一帧都是庆祝的理由",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#FFFFFF",
+    "#9292B2",
+    "#6BCEA5",
+    "#E6E0CF"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P116_rainbow-gradient.jpg",
+   "缩略图": "缩略图/P/P116.jpg"
+  },
+  {
+   "编号": "P117",
+   "中文名": "初心红典",
+   "模板名": "red-gold-ceremony",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/red-gold-ceremony/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/red-gold-ceremony/",
+   "许可": "Apache-2.0",
+   "说明": "正红与鎏金构成的庄重仪式感风格",
+   "类别": "正式 · 庄重",
+   "主色": [
+    "#BA160C"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P117_red-gold-ceremony.jpg",
+   "缩略图": "缩略图/P/P117.jpg"
+  },
+  {
+   "编号": "P118",
+   "中文名": "丹朱教研",
+   "模板名": "red-research-framework",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/red-research-framework/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/red-research-framework/",
+   "许可": "Apache-2.0",
+   "说明": "白底中国红骨架，强调教学与研究逻辑的模块化风格",
+   "类别": "教育 · 正式",
+   "主色": [
+    "#FFFFFF",
+    "#B41E01",
+    "#DBA195"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P118_red-research-framework.jpg",
+   "缩略图": "缩略图/P/P118.jpg"
+  },
+  {
+   "编号": "P119",
+   "中文名": "复古电视",
+   "模板名": "retro-tv",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/retro-tv/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/retro-tv/",
+   "许可": "Apache-2.0",
+   "说明": "暖黄屏幕闪烁琥珀光，时间倒流回客厅里的CRT",
+   "类别": "杂志 · 编辑",
+   "主色": [
+    "#FBEFC3",
+    "#8D4A21"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P119_retro-tv.jpg",
+   "缩略图": "缩略图/P/P119.jpg"
+  },
+  {
+   "编号": "P120",
+   "中文名": "玫瑰松",
+   "模板名": "rose-pine",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/rose-pine/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/rose-pine/",
+   "许可": "Apache-2.0",
+   "说明": "暗紫森林里玫瑰静默绽放，设计感与代码温柔共存",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#191724"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P120_rose-pine.jpg",
+   "缩略图": "缩略图/P/P120.jpg"
+  },
+  {
+   "编号": "P121",
+   "中文名": "青竹 · 学术风",
+   "模板名": "sage-academia",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/sage-academia/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/sage-academia/",
+   "许可": "Apache-2.0",
+   "说明": "清爽留白配鼠尾草绿的学术研究风",
+   "类别": "浅色·沉静",
+   "主色": [
+    "#FFFFFF",
+    "#728C84",
+    "#BDCABA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P121_sage-academia.jpg",
+   "缩略图": "缩略图/P/P121.jpg"
+  },
+  {
+   "编号": "P122",
+   "中文名": "樱花治愈",
+   "模板名": "sakura-soft-healing",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/sakura-soft-healing/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/sakura-soft-healing/",
+   "许可": "Apache-2.0",
+   "说明": "莫兰迪低饱和樱花慢生活",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#71A975",
+    "#EEC7C7",
+    "#F9EDE5"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P122_sakura-soft-healing.jpg",
+   "缩略图": "缩略图/P/P122.jpg"
+  },
+  {
+   "编号": "P123",
+   "中文名": "锐利黑白",
+   "模板名": "sharp-mono",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/sharp-mono/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/sharp-mono/",
+   "许可": "Apache-2.0",
+   "说明": "黑白利刃切开视觉噪音，硬朗到骨子里",
+   "类别": "大胆 · 宣言",
+   "主色": [
+    "#FFFFFF",
+    "#000000",
+    "#BFBFBF"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P123_sharp-mono.jpg",
+   "缩略图": "缩略图/P/P123.jpg"
+  },
+  {
+   "编号": "P124",
+   "中文名": "柔和马卡龙",
+   "模板名": "soft-pastel",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/soft-pastel/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/soft-pastel/",
+   "许可": "Apache-2.0",
+   "说明": "马卡龙三色在画布上轻轻晕开，柔软得像一声早安",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#FEF3C6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P124_soft-pastel.jpg",
+   "缩略图": "缩略图/P/P124.jpg"
+  },
+  {
+   "编号": "P125",
+   "中文名": "日光浅",
+   "模板名": "solarized-light",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/solarized-light/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/solarized-light/",
+   "许可": "Apache-2.0",
+   "说明": "低眩光暖黄抚平视觉疲劳，八小时会议也不刺眼",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#FDF6E3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P125_solarized-light.jpg",
+   "缩略图": "缩略图/P/P125.jpg"
+  },
+  {
+   "编号": "P126",
+   "中文名": "宋人生活·听雨",
+   "模板名": "song-rain-poetic",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/song-rain-poetic/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/song-rain-poetic/",
+   "许可": "Apache-2.0",
+   "说明": "雾蓝嫩绿暖黄，宋人听雨新中式",
+   "类别": "东方 · 国风",
+   "主色": [
+    "#EBF3EF"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P126_song-rain-poetic.jpg",
+   "缩略图": "缩略图/P/P126.jpg"
+  },
+  {
+   "编号": "P127",
+   "中文名": "一半星河一半烟火",
+   "模板名": "starlight-fireworks",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/starlight-fireworks/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/starlight-fireworks/",
+   "许可": "Apache-2.0",
+   "说明": "海军蓝暖焰橙对角，梦幻诗意二元",
+   "类别": "深色 · 沉稳",
+   "主色": [
+    "#092E5B",
+    "#B1744F"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P127_starlight-fireworks.jpg",
+   "缩略图": "缩略图/P/P127.jpg"
+  },
+  {
+   "编号": "P128",
+   "中文名": "星屑柔光 · 童话感",
+   "模板名": "starry-dust",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/starry-dust/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/starry-dust/",
+   "许可": "Apache-2.0",
+   "说明": "雾紫香槟粉星空蓝的柔光童话风",
+   "类别": "活力 · 创意",
+   "主色": [
+    "#DFD0EA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P128_starry-dust.jpg",
+   "缩略图": "缩略图/P/P128.jpg"
+  },
+  {
+   "编号": "P129",
+   "中文名": "夏日暖色",
+   "模板名": "summer-warm-color",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/summer-warm-color/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/summer-warm-color/",
+   "许可": "Apache-2.0",
+   "说明": "清新治愈的夏日绘本风",
+   "类别": "暖色 · 治愈",
+   "主色": [
+    "#9BDC75",
+    "#33ACF0",
+    "#D4EDA2"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P129_summer-warm-color.jpg",
+   "缩略图": "缩略图/P/P129.jpg"
+  },
+  {
+   "编号": "P130",
+   "中文名": "日落暖",
+   "模板名": "sunset-warm",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/sunset-warm/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/sunset-warm/",
+   "许可": "Apache-2.0",
+   "说明": "橘色珊瑚琥珀三色铺满天际，温度本身就是叙事",
+   "类别": "暖色 · 治愈",
+   "主色": [
+    "#973613",
+    "#E46716",
+    "#FA951D",
+    "#FDD38F"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P130_sunset-warm.jpg",
+   "缩略图": "缩略图/P/P130.jpg"
+  },
+  {
+   "编号": "P131",
+   "中文名": "瑞士网格",
+   "模板名": "swiss-grid",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/swiss-grid/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/swiss-grid/",
+   "许可": "Apache-2.0",
+   "说明": "严谨到像素的网格信仰，理性本身就是一种浪漫",
+   "类别": "大胆 · 宣言",
+   "主色": [
+    "#FFFFFF",
+    "#E87576",
+    "#40222E"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P131_swiss-grid.jpg",
+   "缩略图": "缩略图/P/P131.jpg"
+  },
+  {
+   "编号": "P132",
+   "中文名": "瑞士国际主义",
+   "模板名": "swiss-international",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/swiss-international/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/swiss-international/",
+   "许可": "Apache-2.0",
+   "说明": "极致字号对比、严格网格与单一强调色的信息设计风",
+   "类别": "设计 · 理性",
+   "主色": [
+    "#FAFAF8",
+    "#C0C6D4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P132_swiss-international.jpg",
+   "缩略图": "缩略图/P/P132.jpg"
+  },
+  {
+   "编号": "P133",
+   "中文名": "终端绿",
+   "模板名": "terminal-green",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/terminal-green/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/terminal-green/",
+   "许可": "Apache-2.0",
+   "说明": "绿屏荧光在黑暗中闪烁，终端美学最原始的浪漫",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#0B190A"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P133_terminal-green.jpg",
+   "缩略图": "缩略图/P/P133.jpg"
+  },
+  {
+   "编号": "P134",
+   "中文名": "东京夜",
+   "模板名": "tokyo-night",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/tokyo-night/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/tokyo-night/",
+   "许可": "Apache-2.0",
+   "说明": "深蓝底幕上浮起青色光晕，属于深夜程序员的视觉独白",
+   "类别": "深色 · 科技",
+   "主色": [
+    "#1A2436"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P134_tokyo-night.jpg",
+   "缩略图": "缩略图/P/P134.jpg"
+  },
+  {
+   "编号": "P135",
+   "中文名": "蒸汽波",
+   "模板名": "vaporwave",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/vaporwave/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/vaporwave/",
+   "许可": "Apache-2.0",
+   "说明": "深紫渐变中粉红与青蓝晕染，怀旧美学抵达意识深处",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#240B4D",
+    "#BF574A",
+    "#A03F7C",
+    "#5A1E81"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P135_vaporwave.jpg",
+   "缩略图": "缩略图/P/P135.jpg"
+  },
+  {
+   "编号": "P136",
+   "中文名": "小红书白",
+   "模板名": "xiaohongshu-white",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/xiaohongshu-white/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/xiaohongshu-white/",
+   "许可": "Apache-2.0",
+   "说明": "暖红点缀白底衬线，生活方式的每一帧都值得收藏",
+   "类别": "浅色 · 柔和",
+   "主色": [
+    "#FFFCFB"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P136_xiaohongshu-white.jpg",
+   "缩略图": "缩略图/P/P136.jpg"
+  },
+  {
+   "编号": "P137",
+   "中文名": "Y2K 铬",
+   "模板名": "y2k-chrome",
+   "来源库": "arcsin1/oh-my-ppt",
+   "源文件": "resources/styles/y2k-chrome/",
+   "链接": "https://github.com/arcsin1/oh-my-ppt/tree/main/resources/styles/y2k-chrome/",
+   "许可": "Apache-2.0",
+   "说明": "银铬反射彩虹光斑，千禧年的未来主义从未过时",
+   "类别": "效果 · 戏剧",
+   "主色": [
+    "#C9C9C9"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P137_y2k-chrome.jpg",
+   "缩略图": "缩略图/P/P137.jpg"
+  },
+  {
+   "编号": "P138",
+   "中文名": "8-Bit Orbit",
+   "模板名": "8-bit-orbit",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/8-bit-orbit/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/8-bit-orbit/",
+   "许可": "MIT",
+   "说明": "Pixel-art neon arcade aesthetic on a deep navy void.",
+   "类别": "retro-tech、playful、cyberpunk",
+   "主色": [
+    "#0E122A",
+    "#345463"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P138_8-bit-orbit.jpg",
+   "缩略图": "缩略图/P/P138.jpg"
+  },
+  {
+   "编号": "P139",
+   "中文名": "Biennale Yellow",
+   "模板名": "biennale-yellow",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/biennale-yellow/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/biennale-yellow/",
+   "许可": "MIT",
+   "说明": "Solar yellow on warm parchment with deep indigo serif and atmospheric sun-glow gradients.",
+   "类别": "editorial、atmospheric、warm",
+   "主色": [
+    "#E9E5D5",
+    "#EFEC61",
+    "#EDE999",
+    "#98957D"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P139_biennale-yellow.jpg",
+   "缩略图": "缩略图/P/P139.jpg"
+  },
+  {
+   "编号": "P140",
+   "中文名": "BlockFrame",
+   "模板名": "block-frame",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/block-frame/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/block-frame/",
+   "许可": "MIT",
+   "说明": "Neobrutalist deck with pastel-neon color blocks and chunky black borders.",
+   "类别": "bold、playful、graphic",
+   "主色": [
+    "#FFDC8B",
+    "#FFFDF7",
+    "#8F8275"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P140_block-frame.jpg",
+   "缩略图": "缩略图/P/P140.jpg"
+  },
+  {
+   "编号": "P141",
+   "中文名": "Blue Professional",
+   "模板名": "blue-professional",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/blue-professional/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/blue-professional/",
+   "许可": "MIT",
+   "说明": "Cream paper background with electric cobalt blue accents; clean modern professional.",
+   "类别": "professional、modern、calm",
+   "主色": [
+    "#FDFAE7"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P141_blue-professional.jpg",
+   "缩略图": "缩略图/P/P141.jpg"
+  },
+  {
+   "编号": "P142",
+   "中文名": "Bold Poster",
+   "模板名": "bold-poster",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/bold-poster/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/bold-poster/",
+   "许可": "MIT",
+   "说明": "Editorial poster aesthetic with massive Shrikhand display and a single fire-engine red accent.",
+   "类别": "bold、editorial、loud",
+   "主色": [
+    "#FFFFFF",
+    "#68393A",
+    "#99050C",
+    "#E1D6D6"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P142_bold-poster.jpg",
+   "缩略图": "缩略图/P/P142.jpg"
+  },
+  {
+   "编号": "P143",
+   "中文名": "Broadside",
+   "模板名": "broadside",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/broadside/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/broadside/",
+   "许可": "MIT",
+   "说明": "Dark editorial canvas with a single fire orange accent and bilingual Latin/Chinese type stack.",
+   "类别": "editorial、dramatic、loud",
+   "主色": [
+    "#E85D26",
+    "#632E19"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P143_broadside.jpg",
+   "缩略图": "缩略图/P/P143.jpg"
+  },
+  {
+   "编号": "P144",
+   "中文名": "Capsule",
+   "模板名": "capsule",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/capsule/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/capsule/",
+   "许可": "MIT",
+   "说明": "Modular pill-shaped cards on warm bone with a full pastel-pop palette.",
+   "类别": "playful、modern、warm",
+   "主色": [
+    "#F3F4EE",
+    "#C4B8AA"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P144_capsule.jpg",
+   "缩略图": "缩略图/P/P144.jpg"
+  },
+  {
+   "编号": "P145",
+   "中文名": "Cartesian",
+   "模板名": "cartesian",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/cartesian/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/cartesian/",
+   "许可": "MIT",
+   "说明": "Quiet warm-neutral palette with classical Playfair serifs; tasteful and unhurried.",
+   "类别": "quiet、considered、elegant",
+   "主色": [
+    "#EDE9E0"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P145_cartesian.jpg",
+   "缩略图": "缩略图/P/P145.jpg"
+  },
+  {
+   "编号": "P146",
+   "中文名": "Cobalt Grid",
+   "模板名": "cobalt-grid",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/cobalt-grid/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/cobalt-grid/",
+   "许可": "MIT",
+   "说明": "Electric cobalt serifs on a graph-paper canvas, anchored by stair-stepped pixel-glitch decorations and slim hairline rules.",
+   "类别": "editorial、design-research、studious",
+   "主色": [
+    "#F1EBDF",
+    "#B0AFDE"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P146_cobalt-grid.jpg",
+   "缩略图": "缩略图/P/P146.jpg"
+  },
+  {
+   "编号": "P147",
+   "中文名": "Coral",
+   "模板名": "coral",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/coral/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/coral/",
+   "许可": "MIT",
+   "说明": "Cream and coral on near-black, set in oversized Bebas Neue.",
+   "类别": "bold、warm、modern",
+   "主色": [
+    "#F5F1E8",
+    "#CE6A6A"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P147_coral.jpg",
+   "缩略图": "缩略图/P/P147.jpg"
+  },
+  {
+   "编号": "P148",
+   "中文名": "Creative Mode",
+   "模板名": "creative-mode",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/creative-mode/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/creative-mode/",
+   "许可": "MIT",
+   "说明": "Cream paper canvas with confident multi-color (green, pink, orange, yellow) accents and Archivo Black display.",
+   "类别": "creative、confident、playful",
+   "主色": [
+    "#EFE9D9",
+    "#6F886A"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P148_creative-mode.jpg",
+   "缩略图": "缩略图/P/P148.jpg"
+  },
+  {
+   "编号": "P149",
+   "中文名": "Daisy Days",
+   "模板名": "daisy-days",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/daisy-days/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/daisy-days/",
+   "许可": "MIT",
+   "说明": "Cheerful pastel deck with hand-drawn daisies, stars, and rainbows. Friendly, soft, and warm.",
+   "类别": "cheerful、playful、warm",
+   "主色": [
+    "#F4F0E5",
+    "#BAB5A4"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P149_daisy-days.jpg",
+   "缩略图": "缩略图/P/P149.jpg"
+  },
+  {
+   "编号": "P150",
+   "中文名": "Editorial Forest",
+   "模板名": "editorial-forest",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/editorial-forest/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/editorial-forest/",
+   "许可": "MIT",
+   "说明": "Forest green, dusty pink, and warm cream meet Source Serif 4 in a quiet, intentional quarterly-review deck.",
+   "类别": "editorial、quiet、considered",
+   "主色": [
+    "#2F4A2B",
+    "#786A60"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P150_editorial-forest.jpg",
+   "缩略图": "缩略图/P/P150.jpg"
+  },
+  {
+   "编号": "P151",
+   "中文名": "Editorial Tri-Tone",
+   "模板名": "editorial-tri-tone",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/editorial-tri-tone/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/editorial-tri-tone/",
+   "许可": "MIT",
+   "说明": "Three-color editorial system: dusty pink, mustard cream, and deep burgundy, set in Bricolage + Instrument Serif.",
+   "类别": "editorial、warm、intentional",
+   "主色": [
+    "#F3B6C6",
+    "#A95B68"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P151_editorial-tri-tone.jpg",
+   "缩略图": "缩略图/P/P151.jpg"
+  },
+  {
+   "编号": "P152",
+   "中文名": "Emerald Editorial",
+   "模板名": "emerald-editorial",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/emerald-editorial/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/emerald-editorial/",
+   "许可": "MIT",
+   "说明": "A magazine-cover business deck: emerald + navy + paper, double-rule masthead ornaments, and a bold Bodoni-style display serif.",
+   "类别": "editorial、considered、confident",
+   "主色": [
+    "#3CD996",
+    "#277E7A"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P152_emerald-editorial.jpg",
+   "缩略图": "缩略图/P/P152.jpg"
+  },
+  {
+   "编号": "P153",
+   "中文名": "Grove",
+   "模板名": "grove",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/grove/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/grove/",
+   "许可": "MIT",
+   "说明": "Forest-green canvas with cream type, classical Playfair serifs, and a single rust accent.",
+   "类别": "organic、considered、warm",
+   "主色": [
+    "#192B1B",
+    "#394737"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P153_grove.jpg",
+   "缩略图": "缩略图/P/P153.jpg"
+  },
+  {
+   "编号": "P154",
+   "中文名": "Long Table",
+   "模板名": "long-table",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/long-table/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/long-table/",
+   "许可": "MIT",
+   "说明": "Warm cream and rust-red supper-club aesthetic with bold uppercase grotesk headlines, Fraunces serifs, and pill-shaped outlined buttons.",
+   "类别": "warm、intimate、modern",
+   "主色": [
+    "#FAF1E2",
+    "#DDAA99"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P154_long-table.jpg",
+   "缩略图": "缩略图/P/P154.jpg"
+  },
+  {
+   "编号": "P155",
+   "中文名": "Mat",
+   "模板名": "mat",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/mat/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/mat/",
+   "许可": "MIT",
+   "说明": "Dark sage canvas with bone paper and burnt-orange accent; mid-century modern with wood undertones.",
+   "类别": "warm-modern、considered、tactile",
+   "主色": [
+    "#232E26",
+    "#727364"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P155_mat.jpg",
+   "缩略图": "缩略图/P/P155.jpg"
+  },
+  {
+   "编号": "P156",
+   "中文名": "Monochrome",
+   "模板名": "monochrome",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/monochrome/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/monochrome/",
+   "许可": "MIT",
+   "说明": "Ivory ledger paper with all-black type; Lora serif headlines, Jost body, no color at all.",
+   "类别": "restrained、literary、archival",
+   "主色": [
+    "#FAFAE0",
+    "#DADAC3"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P156_monochrome.jpg",
+   "缩略图": "缩略图/P/P156.jpg"
+  },
+  {
+   "编号": "P157",
+   "中文名": "Pin & Paper",
+   "模板名": "pin-and-paper",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/pin-and-paper/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/pin-and-paper/",
+   "许可": "MIT",
+   "说明": "Yellow paper with safety-pin illustrations, ink-blue handwritten Caveat, paper-grain texture.",
+   "类别": "crafted、handmade、warm",
+   "主色": [
+    "#E7DD65"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P157_pin-and-paper.jpg",
+   "缩略图": "缩略图/P/P157.jpg"
+  },
+  {
+   "编号": "P158",
+   "中文名": "Pink Script — After Hours",
+   "模板名": "pink-script",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/pink-script/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/pink-script/",
+   "许可": "MIT",
+   "说明": "Black canvas, hot pink accent, pearl-cream paper, DM Serif Display headlines: late-night editorial luxury.",
+   "类别": "nocturnal、moody、intentional",
+   "主色": [
+    "#0E0B0E",
+    "#5C3F4E"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P158_pink-script.jpg",
+   "缩略图": "缩略图/P/P158.jpg"
+  },
+  {
+   "编号": "P159",
+   "中文名": "Playful",
+   "模板名": "playful",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/playful/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/playful/",
+   "许可": "MIT",
+   "说明": "Sun-warm peach background with Syne display: a friendly indie launch deck.",
+   "类别": "warm、approachable、indie",
+   "主色": [
+    "#EFC89F",
+    "#806D5A"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P159_playful.jpg",
+   "缩略图": "缩略图/P/P159.jpg"
+  },
+  {
+   "编号": "P160",
+   "中文名": "Raw Grid",
+   "模板名": "raw-grid",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/raw-grid/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/raw-grid/",
+   "许可": "MIT",
+   "说明": "Neo-brutalist deck with thick borders, offset shadows, and a pink/sage/ink palette.",
+   "类别": "raw、punchy、energetic",
+   "主色": [
+    "#F1D4CE",
+    "#FFFFFF",
+    "#837D7B"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P160_raw-grid.jpg",
+   "缩略图": "缩略图/P/P160.jpg"
+  },
+  {
+   "编号": "P161",
+   "中文名": "Retro Windows",
+   "模板名": "retro-windows",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/retro-windows/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/retro-windows/",
+   "许可": "MIT",
+   "说明": "Windows 95 chrome: gray title bars, MS Sans Serif, pixel typography, full nostalgia.",
+   "类别": "nostalgic、retro、geeky",
+   "主色": [
+    "#7F7F7F",
+    "#D6D1CB",
+    "#555488"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P161_retro-windows.jpg",
+   "缩略图": "缩略图/P/P161.jpg"
+  },
+  {
+   "编号": "P162",
+   "中文名": "Retro Zine",
+   "模板名": "retro-zine",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/retro-zine/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/retro-zine/",
+   "许可": "MIT",
+   "说明": "Beige paper with green accent and Bebas Neue + Caveat: a riso-printed zine in HTML form.",
+   "类别": "crafted、lo-fi、underground",
+   "主色": [
+    "#C8B99C",
+    "#6A9B72"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P162_retro-zine.jpg",
+   "缩略图": "缩略图/P/P162.jpg"
+  },
+  {
+   "编号": "P163",
+   "中文名": "Sakura Chroma",
+   "模板名": "sakura-chroma",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/sakura-chroma/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/sakura-chroma/",
+   "许可": "MIT",
+   "说明": "Vintage Japanese cassette-package aesthetic: cream paper, diagonal rainbow ribbons, condensed bold type, JIS-style spec checkboxes.",
+   "类别": "retro、playful、kawaii-tech",
+   "主色": [
+    "#F1E5CB",
+    "#A09B83"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P163_sakura-chroma.jpg",
+   "缩略图": "缩略图/P/P163.jpg"
+  },
+  {
+   "编号": "P164",
+   "中文名": "Scatterbrain",
+   "模板名": "scatterbrain",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/scatterbrain/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/scatterbrain/",
+   "许可": "MIT",
+   "说明": "Post-it inspired: pastel sticky notes, Caveat handwriting, Shrikhand and Zilla Slab type stack.",
+   "类别": "playful、creative、warm",
+   "主色": [
+    "#DDCAB1",
+    "#F3D679"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P164_scatterbrain.jpg",
+   "缩略图": "缩略图/P/P164.jpg"
+  },
+  {
+   "编号": "P165",
+   "中文名": "Signal",
+   "模板名": "signal",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/signal/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/signal/",
+   "许可": "MIT",
+   "说明": "Deep navy canvas with bone paper and a single muted-gold accent; institutional with quiet weight.",
+   "类别": "institutional、trustworthy、considered",
+   "主色": [
+    "#1C2544"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P165_signal.jpg",
+   "缩略图": "缩略图/P/P165.jpg"
+  },
+  {
+   "编号": "P166",
+   "中文名": "Soft Editorial",
+   "模板名": "soft-editorial",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/soft-editorial/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/soft-editorial/",
+   "许可": "MIT",
+   "说明": "Cormorant Garamond serif on warm paper with sage, blush, and lemon accents.",
+   "类别": "literary、elegant、quiet",
+   "主色": [
+    "#F1EEDF",
+    "#B1AB9D"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P166_soft-editorial.jpg",
+   "缩略图": "缩略图/P/P166.jpg"
+  },
+  {
+   "编号": "P167",
+   "中文名": "Stencil & Tablet",
+   "模板名": "stencil-tablet",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/stencil-tablet/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/stencil-tablet/",
+   "许可": "MIT",
+   "说明": "Bone paper with stencil-cut headlines and a six-color earth palette: archaeology meets brand.",
+   "类别": "archival、earthy、tactile",
+   "主色": [
+    "#E3DCC9",
+    "#647066"
+   ],
+   "底色": "浅",
+   "效果图": "效果图/P/P167_stencil-tablet.jpg",
+   "缩略图": "缩略图/P/P167.jpg"
+  },
+  {
+   "编号": "P168",
+   "中文名": "Studio",
+   "模板名": "studio",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/studio/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/studio/",
+   "许可": "MIT",
+   "说明": "Black canvas with electric-yellow type; high-voltage design studio aesthetic.",
+   "类别": "electric、bold、graphic",
+   "主色": [
+    "#242422",
+    "#8F7D12"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P168_studio.jpg",
+   "缩略图": "缩略图/P/P168.jpg"
+  },
+  {
+   "编号": "P169",
+   "中文名": "Vellum",
+   "模板名": "vellum",
+   "来源库": "zarazhangrui/beautiful-html-templates",
+   "源文件": "templates/vellum/",
+   "链接": "https://github.com/zarazhangrui/beautiful-html-templates/tree/main/templates/vellum/",
+   "许可": "MIT",
+   "说明": "Deep navy canvas with warm-yellow Cormorant serifs and a single dusty teal accent. A quiet, scholarly aesthetic.",
+   "类别": "scholarly、literary、considered",
+   "主色": [
+    "#29386F",
+    "#535C6B"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P169_vellum.jpg",
+   "缩略图": "缩略图/P/P169.jpg"
+  },
+  {
+   "编号": "P170",
+   "中文名": "瑞士国际主义",
+   "模板名": "template-swiss",
+   "来源库": "op7418/guizang-ppt-skill",
+   "源文件": "assets/template-swiss.html",
+   "链接": "https://github.com/op7418/guizang-ppt-skill/blob/main/assets/template-swiss.html",
+   "许可": "AGPL-3.0",
+   "说明": "网格、单一高饱和色、超大字号对比",
+   "类别": "模板",
+   "主色": [
+    "#012FA7",
+    "#5C79C3"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P170_template-swiss.jpg",
+   "缩略图": "缩略图/P/P170.jpg"
+  },
+  {
+   "编号": "P171",
+   "中文名": "演示稿示例",
+   "模板名": "c2-slides-pptx",
+   "来源库": "alchaincyf/huashu-design",
+   "源文件": "demos/c2-slides-pptx.html",
+   "链接": "https://github.com/alchaincyf/huashu-design/blob/master/demos/c2-slides-pptx.html",
+   "许可": "MIT",
+   "说明": "HTML 演示稿，可导出可编辑 PPTX",
+   "类别": "示例",
+   "主色": [
+    "#0A0A0A"
+   ],
+   "底色": "深",
+   "效果图": "效果图/P/P171_c2-slides-pptx.jpg",
+   "缩略图": "缩略图/P/P171.jpg"
+  }
+ ],
+ "I_impeccable视觉世界": [
+  {
+   "编号": "I01",
+   "中文名": "辉光管计数器",
+   "说明": "玻璃管里橙色辉光数字，每次计数都是一次真实的跳变。数字页可以整页这样做。",
+   "主色描述": "黑钢底＋霓虹橙",
+   "来源ID": "signals-instruments-nixie-laboratory-counter",
+   "整页图": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter.webp",
+   "主色": [
+    "#1D1C1B"
+   ],
+   "效果图": "效果图/I/I01_signals-instruments-nixie-laboratory-counter.jpg",
+   "缩略图": "缩略图/I/I01.jpg"
+  },
+  {
+   "编号": "I02",
+   "中文名": "孔版印刷",
+   "说明": "两三种荧光专色故意套不准，纸面带颗粒，像真的 Riso 印刷品。",
+   "主色描述": "暖纸底＋荧光粉、联邦蓝、向日葵黄",
+   "来源ID": "risograph-web-system",
+   "整页图": "https://impeccable.style/worlds/cards/risograph-web-system-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/risograph-web-system.webp",
+   "主色": [
+    "#F4E9CC",
+    "#C7C1BC",
+    "#3854B2",
+    "#DE688E",
+    "#F1C66E"
+   ],
+   "效果图": "效果图/I/I02_risograph-web-system.jpg",
+   "缩略图": "缩略图/I/I02.jpg"
+  },
+  {
+   "编号": "I03",
+   "中文名": "工业引号街头风",
+   "说明": "大写粗体字加直引号、45 度警示斜纹、橙色扎带标签。",
+   "主色描述": "白棉＋黑尼龙＋安全橙",
+   "来源ID": "textiles-weave-drape-fashion-industrial-quote-grammar",
+   "整页图": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-industrial-quote-grammar-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-industrial-quote-grammar.webp",
+   "主色": [
+    "#F0EEED",
+    "#0A0C0D",
+    "#D2D0CF",
+    "#33261F",
+    "#9E4B24"
+   ],
+   "效果图": "效果图/I/I03_textiles-weave-drape-fashion-industrial-quote-grammar.jpg",
+   "缩略图": "缩略图/I/I03.jpg"
+  },
+  {
+   "编号": "I04",
+   "中文名": "舞台天幕晨光",
+   "说明": "无限天幕从黑夜过渡到钴蓝、玫红再到白昼，每一站是一段灯光。",
+   "主色描述": "纯黑＋钴蓝地平线＋玫红",
+   "来源ID": "stagecraft-theater-lighting-cyclorama-dawn",
+   "整页图": "https://impeccable.style/worlds/cards/stagecraft-theater-lighting-cyclorama-dawn-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/stagecraft-theater-lighting-cyclorama-dawn.webp",
+   "主色": [
+    "#000105",
+    "#F7E0E0",
+    "#B1658D",
+    "#0F194B",
+    "#452343"
+   ],
+   "效果图": "效果图/I/I04_stagecraft-theater-lighting-cyclorama-dawn.jpg",
+   "缩略图": "缩略图/I/I04.jpg"
+  },
+  {
+   "编号": "I05",
+   "中文名": "字母风暴",
+   "说明": "字母聚成词，又碎成天气，按语法改写地形。",
+   "主色描述": "纸白＋风暴黑＋一道银光",
+   "来源ID": "dream-surreal-impossible-worlds-alphabet-storm",
+   "整页图": "https://impeccable.style/worlds/cards/dream-surreal-impossible-worlds-alphabet-storm-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/dream-surreal-impossible-worlds-alphabet-storm.webp",
+   "主色": [
+    "#ECEDED",
+    "#959697"
+   ],
+   "效果图": "效果图/I/I05_dream-surreal-impossible-worlds-alphabet-storm.jpg",
+   "缩略图": "缩略图/I/I05.jpg"
+  },
+  {
+   "编号": "I06",
+   "中文名": "球鞋鞋盒墙",
+   "说明": "一排鞋盒端面印着线稿，配色名像诗一样排列。",
+   "主色描述": "焦橙纸板＋黑线稿",
+   "来源ID": "textiles-weave-drape-fashion-sneaker-box-stacks",
+   "整页图": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-sneaker-box-stacks-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-sneaker-box-stacks.webp",
+   "主色": [
+    "#BD661C",
+    "#5C3617",
+    "#904E18",
+    "#2A190B"
+   ],
+   "效果图": "效果图/I/I06_textiles-weave-drape-fashion-sneaker-box-stacks.jpg",
+   "缩略图": "缩略图/I/I06.jpg"
+  },
+  {
+   "编号": "I07",
+   "中文名": "车站便当包装",
+   "说明": "每盒一张地方特色包装纸，盖着朱红章，有编号的格子地图。",
+   "主色描述": "牛皮纸＋地方色＋朱红章",
+   "来源ID": "vernacular-ephemera-ekiben-wrapper-kiosk",
+   "整页图": "https://impeccable.style/worlds/cards/vernacular-ephemera-ekiben-wrapper-kiosk-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/vernacular-ephemera-ekiben-wrapper-kiosk.webp",
+   "主色": [
+    "#D9D0BC",
+    "#B2B0A4",
+    "#4B555A",
+    "#848780"
+   ],
+   "效果图": "效果图/I/I07_vernacular-ephemera-ekiben-wrapper-kiosk.jpg",
+   "缩略图": "缩略图/I/I07.jpg"
+  },
+  {
+   "编号": "I08",
+   "中文名": "编号收藏卡",
+   "说明": "每包一张编号卡，一套里总有一张印得少。",
+   "主色描述": "硬卡纸＋石印正面＋密排背面",
+   "来源ID": "pop-culture-shelf-insert-card-numbered-series",
+   "整页图": "https://impeccable.style/worlds/cards/pop-culture-shelf-insert-card-numbered-series-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/pop-culture-shelf-insert-card-numbered-series.webp",
+   "主色": [
+    "#EBE5D7",
+    "#C7C3BA",
+    "#4E5663"
+   ],
+   "效果图": "效果图/I/I08_pop-culture-shelf-insert-card-numbered-series.jpg",
+   "缩略图": "缩略图/I/I08.jpg"
+  },
+  {
+   "编号": "I09",
+   "中文名": "鼓机步进键",
+   "说明": "十六个糖果色步进键，追光灯一格格跑过去，正好对应一站站往前走。",
+   "主色描述": "炭灰面板＋红橙黄白键＋LED",
+   "来源ID": "signals-instruments-drum-machine-step-row",
+   "整页图": "https://impeccable.style/worlds/cards/signals-instruments-drum-machine-step-row-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/signals-instruments-drum-machine-step-row.webp",
+   "主色": [
+    "#0E1414",
+    "#9C7E50",
+    "#492722"
+   ],
+   "效果图": "效果图/I/I09_signals-instruments-drum-machine-step-row.jpg",
+   "缩略图": "缩略图/I/I09.jpg"
+  },
+  {
+   "编号": "I10",
+   "中文名": "数据崇高（池田亮司）",
+   "说明": "只有纯黑纯白，条码柱和正弦格子频闪，整页反转。",
+   "主色描述": "纯黑＋纯白",
+   "来源ID": "ikeda-datamatics",
+   "整页图": "https://impeccable.style/worlds/cards/ikeda-datamatics-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/ikeda-datamatics.webp",
+   "主色": [
+    "#171717",
+    "#383838"
+   ],
+   "效果图": "效果图/I/I10_ikeda-datamatics.jpg",
+   "缩略图": "缩略图/I/I10.jpg"
+  },
+  {
+   "编号": "I11",
+   "中文名": "黑洞吸积盘",
+   "说明": "扭曲的视界、时间变慢的光环，物质越过不可逆的门槛。",
+   "主色描述": "虚空黑＋蓝白光盘＋余烬红＋金色光环",
+   "来源ID": "galaxies-nebulae-deep-time-accretion-disk-threshold",
+   "整页图": "https://impeccable.style/worlds/cards/galaxies-nebulae-deep-time-accretion-disk-threshold-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/galaxies-nebulae-deep-time-accretion-disk-threshold.webp",
+   "主色": [
+    "#140F12",
+    "#463638"
+   ],
+   "效果图": "效果图/I/I11_galaxies-nebulae-deep-time-accretion-disk-threshold.jpg",
+   "缩略图": "缩略图/I/I11.jpg"
+  },
+  {
+   "编号": "I12",
+   "中文名": "夜海荧光",
+   "说明": "夜里的海被荧光浮游生物点亮，每道尾迹都在发光。",
+   "主色描述": "夜海黑＋电光蓝＋青色余迹",
+   "来源ID": "reefs-bioluminescent-nocturnal-plankton-wake-stars",
+   "整页图": "https://impeccable.style/worlds/cards/reefs-bioluminescent-nocturnal-plankton-wake-stars-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/reefs-bioluminescent-nocturnal-plankton-wake-stars.webp",
+   "主色": [
+    "#020C17",
+    "#11355B"
+   ],
+   "效果图": "效果图/I/I12_reefs-bioluminescent-nocturnal-plankton-wake-stars.jpg",
+   "缩略图": "缩略图/I/I12.jpg"
+  },
+  {
+   "编号": "I13",
+   "中文名": "一位元桌面",
+   "说明": "早期黑白像素桌面：抖动灰、标题栏、蚂蚁线选框、32 像素图标。",
+   "主色描述": "纯黑白像素",
+   "来源ID": "medium-native-one-bit-desktop",
+   "整页图": "https://impeccable.style/worlds/cards/medium-native-one-bit-desktop-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/medium-native-one-bit-desktop.webp",
+   "主色": [
+    "#FFFFFF",
+    "#E3E3E3",
+    "#9D9E9D",
+    "#C0C0C0",
+    "#404141"
+   ],
+   "效果图": "效果图/I/I13_medium-native-one-bit-desktop.jpg",
+   "缩略图": "缩略图/I/I13.jpg"
+  },
+  {
+   "编号": "I14",
+   "中文名": "粒子对撞事件图",
+   "说明": "一次对撞冻结在画面中央，粒子轨迹穿过一圈圈探测器。",
+   "主色描述": "近黑＋钢蓝环＋信号黄、青＋红色能量柱",
+   "来源ID": "scientific-notation-particle-detector-event-display",
+   "整页图": "https://impeccable.style/worlds/cards/scientific-notation-particle-detector-event-display-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/scientific-notation-particle-detector-event-display.webp",
+   "主色": [
+    "#0C1A27",
+    "#2D3340"
+   ],
+   "效果图": "效果图/I/I14_scientific-notation-particle-detector-event-display.jpg",
+   "缩略图": "缩略图/I/I14.jpg"
+  },
+  {
+   "编号": "I15",
+   "中文名": "玩具主义集体画",
+   "说明": "固定的钴蓝、洋红、柠檬黄，硬边图形漂浮，不许任何渐变。",
+   "主色描述": "钴蓝＋洋红＋柠檬黄",
+   "来源ID": "design-canon-toyism-signed-collective-plate",
+   "整页图": "https://impeccable.style/worlds/cards/design-canon-toyism-signed-collective-plate-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/design-canon-toyism-signed-collective-plate.webp",
+   "主色": [
+    "#F4F0ED",
+    "#A4A0A5",
+    "#1F2A8D",
+    "#5864A0",
+    "#CEC8C2"
+   ],
+   "效果图": "效果图/I/I15_design-canon-toyism-signed-collective-plate.jpg",
+   "缩略图": "缩略图/I/I15.jpg"
+  },
+  {
+   "编号": "I16",
+   "中文名": "早期动画赛璐珞",
+   "说明": "橡皮管四肢、圆形关节、圆形光圈开合。",
+   "主色描述": "赛璐珞黑＋纸白＋灰",
+   "来源ID": "pop-culture-shelf-rubber-hose-cel",
+   "整页图": "https://impeccable.style/worlds/cards/pop-culture-shelf-rubber-hose-cel-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/pop-culture-shelf-rubber-hose-cel.webp",
+   "主色": [
+    "#E6E0D2",
+    "#87847B",
+    "#B8B2A7",
+    "#5A5A55",
+    "#1A1E1D"
+   ],
+   "效果图": "效果图/I/I16_pop-culture-shelf-rubber-hose-cel.jpg",
+   "缩略图": "缩略图/I/I16.jpg"
+  },
+  {
+   "编号": "I17",
+   "中文名": "午夜绿屏终端",
+   "说明": "机房里的绿色荧光终端，光标闪烁、扫描线、余辉拖影。",
+   "主色描述": "近黑＋荧光绿",
+   "来源ID": "signals-instruments-phosphor-terminal-midnight",
+   "整页图": "https://impeccable.style/worlds/cards/signals-instruments-phosphor-terminal-midnight-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/signals-instruments-phosphor-terminal-midnight.webp",
+   "主色": [
+    "#0B150B",
+    "#264D25"
+   ],
+   "效果图": "效果图/I/I17_signals-instruments-phosphor-terminal-midnight.jpg",
+   "缩略图": "缩略图/I/I17.jpg"
+  },
+  {
+   "编号": "I18",
+   "中文名": "字符画实时渲染",
+   "说明": "用打字机字符的疏密当明暗，一个 @ 也能是一张脸。",
+   "主色描述": "黑底＋单色绿或琥珀",
+   "来源ID": "medium-native-ascii-live-scene-render",
+   "整页图": "https://impeccable.style/worlds/cards/medium-native-ascii-live-scene-render-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/medium-native-ascii-live-scene-render.webp",
+   "主色": [
+    "#000000",
+    "#39481F"
+   ],
+   "效果图": "效果图/I/I18_medium-native-ascii-live-scene-render.jpg",
+   "缩略图": "缩略图/I/I18.jpg"
+  },
+  {
+   "编号": "I19",
+   "中文名": "乌贼变色皮肤",
+   "说明": "皮肤就是显示屏，色素细胞扩张、花纹游走。",
+   "主色描述": "米白＋红棕＋一闪蓝绿",
+   "来源ID": "reefs-bioluminescent-nocturnal-chromatophore-skin-language",
+   "整页图": "https://impeccable.style/worlds/cards/reefs-bioluminescent-nocturnal-chromatophore-skin-language-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/reefs-bioluminescent-nocturnal-chromatophore-skin-language.webp",
+   "主色": [
+    "#F6EFE5",
+    "#C3AE9E",
+    "#7D685A"
+   ],
+   "效果图": "效果图/I/I19_reefs-bioluminescent-nocturnal-chromatophore-skin-language.jpg",
+   "缩略图": "缩略图/I/I19.jpg"
+  },
+  {
+   "编号": "I20",
+   "中文名": "裸脊线装书",
+   "说明": "书脊上的链式缝线露在外面，缝法本身就是唯一的装饰。",
+   "主色描述": "麻线＋木板＋本色纸",
+   "来源ID": "craft-making-coptic-exposed-binding",
+   "整页图": "https://impeccable.style/worlds/cards/craft-making-coptic-exposed-binding-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/craft-making-coptic-exposed-binding.webp",
+   "主色": [
+    "#E5DED1",
+    "#C3B7A8",
+    "#4D3E2E",
+    "#967F66"
+   ],
+   "效果图": "效果图/I/I20_craft-making-coptic-exposed-binding.jpg",
+   "缩略图": "缩略图/I/I20.jpg"
+  },
+  {
+   "编号": "I21",
+   "中文名": "滑板店板墙",
+   "说明": "满版插画的滑板挂满一墙，尖叫的颜色配砂纸黑背面。",
+   "主色描述": "水蓝＋亮粉＋骨白＋黑",
+   "来源ID": "pop-culture-shelf-skate-deck-wall",
+   "整页图": "https://impeccable.style/worlds/cards/pop-culture-shelf-skate-deck-wall-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/pop-culture-shelf-skate-deck-wall.webp",
+   "主色": [
+    "#F8EFDE",
+    "#AC8077",
+    "#131717",
+    "#3F6959",
+    "#CEC89A"
+   ],
+   "效果图": "效果图/I/I21_pop-culture-shelf-skate-deck-wall.jpg",
+   "缩略图": "缩略图/I/I21.jpg"
+  },
+  {
+   "编号": "I22",
+   "中文名": "法式流行唱片封套",
+   "说明": "一整块饱和纯色底，圆润的字标，角落一小块整齐曲目。",
+   "主色描述": "橘色或青绿满版＋白",
+   "来源ID": "posters-covers-sleeves-yeye-pop-sleeve",
+   "整页图": "https://impeccable.style/worlds/cards/posters-covers-sleeves-yeye-pop-sleeve-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/posters-covers-sleeves-yeye-pop-sleeve.webp",
+   "主色": [
+    "#ED4303",
+    "#EBDBCA",
+    "#C68A5B",
+    "#D15A23",
+    "#A33308"
+   ],
+   "效果图": "效果图/I/I22_posters-covers-sleeves-yeye-pop-sleeve.jpg",
+   "缩略图": "缩略图/I/I22.jpg"
+  },
+  {
+   "编号": "I23",
+   "中文名": "双片联映海报",
+   "说明": "两个标题在同一张纸上抢位置，手写口号塞满空隙。",
+   "主色描述": "黄＋红＋黑",
+   "来源ID": "posters-covers-sleeves-exploitation-combo-sheet",
+   "整页图": "https://impeccable.style/worlds/cards/posters-covers-sleeves-exploitation-combo-sheet-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/posters-covers-sleeves-exploitation-combo-sheet.webp",
+   "主色": [
+    "#040403",
+    "#C99328",
+    "#89100B",
+    "#72531E"
+   ],
+   "效果图": "效果图/I/I23_posters-covers-sleeves-exploitation-combo-sheet.jpg",
+   "缩略图": "缩略图/I/I23.jpg"
+  },
+  {
+   "编号": "I24",
+   "中文名": "日式时装杂志跨页",
+   "说明": "照片层叠在蕾丝底纹上，手绘飘带标注每件衣服。",
+   "主色描述": "黑＋血红＋蕾丝米白",
+   "来源ID": "pop-culture-shelf-gothic-lolita-mook",
+   "整页图": "https://impeccable.style/worlds/cards/pop-culture-shelf-gothic-lolita-mook-hero.webp",
+   "部件板": "https://impeccable.style/worlds/cards/pop-culture-shelf-gothic-lolita-mook.webp",
+   "主色": [
+    "#F5ECDF",
+    "#3B100F",
+    "#D1C5B9",
+    "#6B5A54"
+   ],
+   "效果图": "效果图/I/I24_pop-culture-shelf-gothic-lolita-mook.jpg",
+   "缩略图": "缩略图/I/I24.jpg"
+  }
+ ]
+}
